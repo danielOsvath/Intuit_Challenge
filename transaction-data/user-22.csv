@@ -1084,10 +1084,10 @@ auth_id, Date, Vendor, Amount, Location
 50068,12/30/2013,Athletic Apparel,-12.89,CA
 50068,12/30/2013,GNC,-16.32,CA
 50068,12/30/2013,Bike Rental,-38.57,CA
-50068,12/32/2013,Dick's Sporting Goods,-4.27,CA
-50068,12/32/2013,Vitamin Shoppe,-5.69,CA
-50068,12/32/2013,Public Transportation - Bus Pass,-17.88,CA
-50068,12/32/2013,Total Gym Fees,-17.06,CA
+50068,12/31/2013,Dick's Sporting Goods,-4.27,CA
+50068,12/31/2013,Vitamin Shoppe,-5.69,CA
+50068,12/31/2013,Public Transportation - Bus Pass,-17.88,CA
+50068,12/31/2013,Total Gym Fees,-17.06,CA
 50068,1/2/2014,Vitamin Shoppe,-36.81,CA
 50068,1/2/2014,Bike Rental,-7.02,CA
 50068,1/2/2014,Total Gym Fees,-2.77,CA
@@ -2243,9 +2243,9 @@ auth_id, Date, Vendor, Amount, Location
 50068,12/29/2014,Taxi,-36.85,CA
 50068,12/29/2014,Restaurant - Chinese,-3.75,CA
 50068,12/30/2014,Lyft,-72.67,CA
-50068,12/32/2014,Public Transportation - Bus Pass,-11.54,CA
-50068,12/32/2014,Dick's Sporting Goods,-15.67,CA
-50068,12/32/2014,Starbucks Coffee,-14.48,CA
-50068,12/32/2014,Vitamin Shoppe,-69.72,CA
-50068,12/32/2014,Amazon Order - Athletic Equipment,-4.11,CA
-50068,12/32/2014,Dick's Sporting Goods,-17.41,CA
+50068,12/31/2014,Public Transportation - Bus Pass,-11.54,CA
+50068,12/31/2014,Dick's Sporting Goods,-15.67,CA
+50068,12/31/2014,Starbucks Coffee,-14.48,CA
+50068,12/31/2014,Vitamin Shoppe,-69.72,CA
+50068,12/31/2014,Amazon Order - Athletic Equipment,-4.11,CA
+50068,12/31/2014,Dick's Sporting Goods,-17.41,CA

@@ -1098,12 +1098,12 @@ auth_id, Date, Vendor, Amount, Location
 37458,12/28/2013,Uber,-26.57,CA
 37458,12/29/2013,Food Delivery - GrubHub,-13.19,CA
 37458,12/30/2013,Restaurant - Burgers,-11.97,CA
-37458,12/32/2013,Lyft,-15.99,CA
-37458,12/32/2013,Food Delivery - GrubHub,-21.14,CA
-37458,12/32/2013,Public Transportation - Bus Pass,-10.03,CA
-37458,12/32/2013,PlayStation Membership,-29.94,CA
-37458,12/32/2013,Whole Foods,-20.82,CA
-37458,12/32/2013,PlayStation Membership,-40.99,CA
+37458,12/31/2013,Lyft,-15.99,CA
+37458,12/31/2013,Food Delivery - GrubHub,-21.14,CA
+37458,12/31/2013,Public Transportation - Bus Pass,-10.03,CA
+37458,12/31/2013,PlayStation Membership,-29.94,CA
+37458,12/31/2013,Whole Foods,-20.82,CA
+37458,12/31/2013,PlayStation Membership,-40.99,CA
 37458,1/2/2014,Uber,-29.43,CA
 37458,1/2/2014,Pet Smart,-117.48,CA
 37458,1/2/2014,On Demand TV,-32.16,CA
@@ -2242,5 +2242,5 @@ auth_id, Date, Vendor, Amount, Location
 37458,12/29/2014,Ralph's Grocery Store,-115.77,CA
 37458,12/30/2014,Uber,-4.87,CA
 37458,12/30/2014,Public Transportation - Bus Pass,-36.88,CA
-37458,12/32/2014,Wine Delivery,-30.14,CA
-37458,12/32/2014,Starbucks Coffee,-28.98,CA
+37458,12/31/2014,Wine Delivery,-30.14,CA
+37458,12/31/2014,Starbucks Coffee,-28.98,CA

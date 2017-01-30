@@ -1101,7 +1101,7 @@ auth_id, Date, Vendor, Amount, Location
 32320,12/30/2013,Movie Ticket,-13.17,CA
 32320,12/30/2013,Bowling,-34.68,CA
 32320,12/30/2013,Von's Groceries,-32.76,CA
-32320,12/32/2013,Starbucks Coffee,-31.26,CA
+32320,12/31/2013,Starbucks Coffee,-31.26,CA
 32320,1/2/2014,Whole Foods,-1.03,CA
 32320,1/2/2014,Owl Night Club,-48.83,CA
 32320,1/2/2014,Lyft,-11.62,CA
@@ -2201,6 +2201,6 @@ auth_id, Date, Vendor, Amount, Location
 32320,12/30/2014,Public Transportation - Train Pass,-1.95,CA
 32320,12/30/2014,Food Delivery - GrubHub,-50.45,CA
 32320,12/30/2014,Von's Groceries,-7.09,CA
-32320,12/32/2014,Green Flash Brewery,-19.64,CA
-32320,12/32/2014,Ice Skating Rink,-29.01,CA
-32320,12/32/2014,Movie Ticket,-24.52,CA
+32320,12/31/2014,Green Flash Brewery,-19.64,CA
+32320,12/31/2014,Ice Skating Rink,-29.01,CA
+32320,12/31/2014,Movie Ticket,-24.52,CA

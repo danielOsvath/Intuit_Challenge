@@ -1120,7 +1120,7 @@ auth_id, Date, Vendor, Amount, Location
 93777,12/30/2013,Uber,-18.8,CA
 93777,12/30/2013,Online Education Courses,-6.12,CA
 93777,12/30/2013,Online Education Courses,-29.33,CA
-93777,12/32/2013,Taxi,-56.01,CA
+93777,12/31/2013,Taxi,-56.01,CA
 93777,1/2/2014,Restaurant - Pizza,-30.57,CA
 93777,1/3/2014,Restaurant - Chinese,-62.55,CA
 93777,1/3/2014,Amazon Order - Mathematics Book,-12.49,CA
@@ -2229,6 +2229,6 @@ auth_id, Date, Vendor, Amount, Location
 93777,12/30/2014,San Diego Museum,-26.05,CA
 93777,12/30/2014,Restaurant - Chinese,-0.5,CA
 93777,12/30/2014,Restaurant - Steakhouse,-17.37,CA
-93777,12/32/2014,Amazon Order - Mathematics Book,-32.69,CA
-93777,12/32/2014,DVD - Star Trek,-37.63,CA
-93777,12/32/2014,Taxi,-16.68,CA
+93777,12/31/2014,Amazon Order - Mathematics Book,-32.69,CA
+93777,12/31/2014,DVD - Star Trek,-37.63,CA
+93777,12/31/2014,Taxi,-16.68,CA

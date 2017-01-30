@@ -1155,14 +1155,14 @@ auth_id, Date, Vendor, Amount, Location
 13799,12/29/2013,Food Delivery - GrubHub,-2.09,CA
 13799,12/30/2013,Uber,-23.43,CA
 13799,12/30/2013,Lyft,-0.33,CA
-13799,12/32/2013,Pet Smart,-3.06,CA
-13799,12/32/2013,On Demand TV,-15.41,CA
-13799,12/32/2013,Podcast Subscription,-99.34,CA
-13799,12/32/2013,Uber,-10.56,CA
-13799,12/32/2013,Food Delivery - GrubHub,-22.04,CA
-13799,12/32/2013,Restaurant - Chinese,-6.65,CA
-13799,12/32/2013,Wine Delivery,-28.14,CA
-13799,12/32/2013,Pet Supply - Cat Food,-32.92,CA
+13799,12/31/2013,Pet Smart,-3.06,CA
+13799,12/31/2013,On Demand TV,-15.41,CA
+13799,12/31/2013,Podcast Subscription,-99.34,CA
+13799,12/31/2013,Uber,-10.56,CA
+13799,12/31/2013,Food Delivery - GrubHub,-22.04,CA
+13799,12/31/2013,Restaurant - Chinese,-6.65,CA
+13799,12/31/2013,Wine Delivery,-28.14,CA
+13799,12/31/2013,Pet Supply - Cat Food,-32.92,CA
 13799,1/2/2014,Red Box DVD Rental,-1.83,CA
 13799,1/2/2014,Von's Groceries,-6.59,CA
 13799,1/2/2014,On Demand Movie,-35.81,CA
@@ -2304,5 +2304,5 @@ auth_id, Date, Vendor, Amount, Location
 13799,12/29/2014,Wine Delivery,-3.39,CA
 13799,12/30/2014,Food Delivery - Uber Eats,-38.54,CA
 13799,12/30/2014,Food Delivery - Uber Eats,-0.68,CA
-13799,12/32/2014,Pet Supply - Cat Food,-11.49,CA
-13799,12/32/2014,Pet Smart,-13.71,CA
+13799,12/31/2014,Pet Supply - Cat Food,-11.49,CA
+13799,12/31/2014,Pet Smart,-13.71,CA

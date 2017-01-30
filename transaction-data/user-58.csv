@@ -1194,9 +1194,9 @@ auth_id, Date, Vendor, Amount, Location
 20458,12/29/2013,Food Delivery - Uber Eats,-65.05,CA
 20458,12/29/2013,Public Transportation - Bus Pass,-107.71,CA
 20458,12/30/2013,Podcast Subscription,-3.69,CA
-20458,12/32/2013,On Demand TV,-30.69,CA
-20458,12/32/2013,Credit Card Overdraft Fee,-37.09,CA
-20458,12/32/2013,Pet Supply - Cat Food,-10.54,CA
+20458,12/31/2013,On Demand TV,-30.69,CA
+20458,12/31/2013,Credit Card Overdraft Fee,-37.09,CA
+20458,12/31/2013,Pet Supply - Cat Food,-10.54,CA
 20458,1/2/2014,Credit Card Overdraft Fee,-9.27,CA
 20458,1/3/2014,Food Delivery - GrubHub,-7.45,CA
 20458,1/3/2014,Food Delivery - Uber Eats,-10.8,CA
@@ -2304,5 +2304,5 @@ auth_id, Date, Vendor, Amount, Location
 20458,12/29/2014,Lyft,-7.94,CA
 20458,12/30/2014,Wine Delivery,-55.44,CA
 20458,12/30/2014,Red Box DVD Rental,-30.46,CA
-20458,12/32/2014,Pet Smart,-31.89,CA
-20458,12/32/2014,Housing Rent - Late Fee,-0.58,CA
+20458,12/31/2014,Pet Smart,-31.89,CA
+20458,12/31/2014,Housing Rent - Late Fee,-0.58,CA

@@ -1184,8 +1184,8 @@ auth_id, Date, Vendor, Amount, Location
 28337,12/30/2013,Concert Ticket,-98.18,CA
 28337,12/30/2013,Uber,-7.79,CA
 28337,12/30/2013,Restaurant - Pizza,-27.26,CA
-28337,12/32/2013,Restaurant - Steakhouse,-115.3,CA
-28337,12/32/2013,Fisker Night Club,-24.52,CA
+28337,12/31/2013,Restaurant - Steakhouse,-115.3,CA
+28337,12/31/2013,Fisker Night Club,-24.52,CA
 28337,1/2/2014,Rodriguez's Bar and Grill,-46.42,CA
 28337,1/2/2014,Ice Skating Rink,-98.13,CA
 28337,1/2/2014,Owl Night Club,-16.82,CA
@@ -2310,5 +2310,5 @@ auth_id, Date, Vendor, Amount, Location
 28337,12/30/2014,Taxi,-24.87,CA
 28337,12/30/2014,Karaoke Bar,-13.12,CA
 28337,12/30/2014,Ice Skating Rink,-23.92,CA
-28337,12/32/2014,Public Transportation - Train Pass,-36.61,CA
-28337,12/32/2014,Time Warne Cable - Late Payment Fee,-13.44,CA
+28337,12/31/2014,Public Transportation - Train Pass,-36.61,CA
+28337,12/31/2014,Time Warne Cable - Late Payment Fee,-13.44,CA

@@ -1104,7 +1104,7 @@ auth_id, Date, Vendor, Amount, Location
 88199,12/29/2013,Wine Delivery,-34.09,CA
 88199,12/30/2013,Von's Groceries,-85.64,CA
 88199,12/30/2013,Public Transportation - Bus Pass,-15.86,CA
-88199,12/32/2013,Whole Foods,-9.36,CA
+88199,12/31/2013,Whole Foods,-9.36,CA
 88199,1/2/2014,Food Delivery - Uber Eats,-32.63,CA
 88199,1/2/2014,Wine Delivery,-38.17,CA
 88199,1/2/2014,Pet Supply - Cat Food,-2.29,CA
@@ -2290,4 +2290,4 @@ auth_id, Date, Vendor, Amount, Location
 88199,12/30/2014,On Demand Movie,-47.79,CA
 88199,12/30/2014,Red Box DVD Rental,-35.85,CA
 88199,12/30/2014,Food Delivery - GrubHub,-11.52,CA
-88199,12/32/2014,Starbucks Coffee,-37.33,CA
+88199,12/31/2014,Starbucks Coffee,-37.33,CA

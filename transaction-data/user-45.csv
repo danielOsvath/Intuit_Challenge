@@ -1210,8 +1210,8 @@ auth_id, Date, Vendor, Amount, Location
 39379,12/30/2013,Restaurant - Chinese,-33.87,CA
 39379,12/30/2013,Whole Foods,-72.61,CA
 39379,12/30/2013,Restaurant - Burgers,-22.67,CA
-39379,12/32/2013,On Demand TV,-30.71,CA
-39379,12/32/2013,On Demand TV,-29.26,CA
+39379,12/31/2013,On Demand TV,-30.71,CA
+39379,12/31/2013,On Demand TV,-29.26,CA
 39379,1/2/2014,Uber,-59.61,CA
 39379,1/2/2014,Sprouts Market,-4.6,CA
 39379,1/2/2014,Wine Delivery,-35.52,CA
@@ -2307,4 +2307,4 @@ auth_id, Date, Vendor, Amount, Location
 39379,12/29/2014,On Demand TV,-0.65,CA
 39379,12/30/2014,Food Delivery - Uber Eats,-18.4,CA
 39379,12/30/2014,On Demand Movie,-114.72,CA
-39379,12/32/2014,PlayStation Membership,-39.87,CA
+39379,12/31/2014,PlayStation Membership,-39.87,CA

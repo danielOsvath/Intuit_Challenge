@@ -1112,15 +1112,15 @@ auth_id, Date, Vendor, Amount, Location
 44675,12/29/2013,Whole Foods,-28.05,CA
 44675,12/29/2013,Starbucks Coffee,-17.03,CA
 44675,12/30/2013,PlayStation Membership,-22.39,CA
-44675,12/32/2013,PlayStation Membership,-26.37,CA
-44675,12/32/2013,Food Delivery - GrubHub,-16.02,CA
-44675,12/32/2013,Podcast Subscription,-31.25,CA
-44675,12/32/2013,Uber,-7.29,CA
-44675,12/32/2013,Food Delivery - Uber Eats,-83.93,CA
-44675,12/32/2013,Pet Supply - Cat Food,-15.28,CA
-44675,12/32/2013,Podcast Subscription,-10.12,CA
-44675,12/32/2013,Food Delivery - GrubHub,-35.53,CA
-44675,12/32/2013,On Demand Movie,-22.97,CA
+44675,12/31/2013,PlayStation Membership,-26.37,CA
+44675,12/31/2013,Food Delivery - GrubHub,-16.02,CA
+44675,12/31/2013,Podcast Subscription,-31.25,CA
+44675,12/31/2013,Uber,-7.29,CA
+44675,12/31/2013,Food Delivery - Uber Eats,-83.93,CA
+44675,12/31/2013,Pet Supply - Cat Food,-15.28,CA
+44675,12/31/2013,Podcast Subscription,-10.12,CA
+44675,12/31/2013,Food Delivery - GrubHub,-35.53,CA
+44675,12/31/2013,On Demand Movie,-22.97,CA
 44675,1/2/2014,On Demand TV,-1.02,CA
 44675,1/2/2014,Podcast Subscription,-55.15,CA
 44675,1/3/2014,Food Delivery - GrubHub,-4.02,CA
@@ -2174,7 +2174,7 @@ auth_id, Date, Vendor, Amount, Location
 44675,12/30/2014,Food Delivery - GrubHub,-4.87,CA
 44675,12/30/2014,Food Delivery - Uber Eats,-34.8,CA
 44675,12/30/2014,On Demand TV,-11.61,CA
-44675,12/32/2014,Wine Delivery,-17.59,CA
-44675,12/32/2014,Starbucks Coffee,-95.12,CA
-44675,12/32/2014,Public Transportation - Bus Pass,-30.14,CA
-44675,12/32/2014,Red Box DVD Rental,-10.79,CA
+44675,12/31/2014,Wine Delivery,-17.59,CA
+44675,12/31/2014,Starbucks Coffee,-95.12,CA
+44675,12/31/2014,Public Transportation - Bus Pass,-30.14,CA
+44675,12/31/2014,Red Box DVD Rental,-10.79,CA

@@ -1094,11 +1094,11 @@ auth_id, Date, Vendor, Amount, Location
 96265,12/30/2013,Owl Night Club,-30.42,CA
 96265,12/30/2013,Green Flash Brewery,-33.26,CA
 96265,12/30/2013,Taxi,-39.23,CA
-96265,12/32/2013,Movie Ticket,-25.96,CA
-96265,12/32/2013,Public Transportation - Train Pass,-15.76,CA
-96265,12/32/2013,Movie Ticket,-55.33,CA
-96265,12/32/2013,Movie Ticket,-18.4,CA
-96265,12/32/2013,Fisker Night Club,-15.15,CA
+96265,12/31/2013,Movie Ticket,-25.96,CA
+96265,12/31/2013,Public Transportation - Train Pass,-15.76,CA
+96265,12/31/2013,Movie Ticket,-55.33,CA
+96265,12/31/2013,Movie Ticket,-18.4,CA
+96265,12/31/2013,Fisker Night Club,-15.15,CA
 96265,1/2/2014,Ralph's Grocery Store,-68.19,CA
 96265,1/2/2014,Whole Foods,-27.31,CA
 96265,1/2/2014,Ice Skating Rink,-16.08,CA
@@ -2241,6 +2241,6 @@ auth_id, Date, Vendor, Amount, Location
 96265,12/29/2014,Fisker Night Club,-9.77,CA
 96265,12/30/2014,Ice Skating Rink,-26.01,CA
 96265,12/30/2014,Seaside Bar,-18.76,CA
-96265,12/32/2014,Restaurant - Pizza,-6.18,CA
-96265,12/32/2014,Owl Night Club,-23.3,CA
-96265,12/32/2014,Restaurant - Chinese,-22.11,CA
+96265,12/31/2014,Restaurant - Pizza,-6.18,CA
+96265,12/31/2014,Owl Night Club,-23.3,CA
+96265,12/31/2014,Restaurant - Chinese,-22.11,CA

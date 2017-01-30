@@ -1097,7 +1097,7 @@ auth_id, Date, Vendor, Amount, Location
 94765,12/29/2013,Art Museum,-10.63,CA
 94765,12/29/2013,San Diego Museum,-10.57,CA
 94765,12/30/2013,Art Museum,-33.69,CA
-94765,12/32/2013,Library Membership,-6.44,CA
+94765,12/31/2013,Library Membership,-6.44,CA
 94765,1/2/2014,Online Education Courses,-7.32,CA
 94765,1/3/2014,Taxi,-10.69,CA
 94765,1/3/2014,Von's Groceries,-36.65,CA
@@ -2289,12 +2289,12 @@ auth_id, Date, Vendor, Amount, Location
 94765,12/28/2014,Starbucks Coffee,-119.3,CA
 94765,12/29/2014,Restaurant - Pizza,-33.69,CA
 94765,12/30/2014,Coffee,-18.85,CA
-94765,12/32/2014,Amazon Order - Star Wars Figurine,-14.78,CA
-94765,12/32/2014,Art Museum,-21.46,CA
-94765,12/32/2014,Library Membership,-33.9,CA
-94765,12/32/2014,Amazon Order - Mathematics Book,-12.86,CA
-94765,12/32/2014,Sprouts Market,-43.96,CA
-94765,12/32/2014,Amazon Order - Science Book,-24,CA
-94765,12/32/2014,San Diego Museum,-31.81,CA
-94765,12/32/2014,Mary's Book Store,-38.17,CA
-94765,12/32/2014,Amazon Order - Mathematics Book,-26.26,CA
+94765,12/31/2014,Amazon Order - Star Wars Figurine,-14.78,CA
+94765,12/31/2014,Art Museum,-21.46,CA
+94765,12/31/2014,Library Membership,-33.9,CA
+94765,12/31/2014,Amazon Order - Mathematics Book,-12.86,CA
+94765,12/31/2014,Sprouts Market,-43.96,CA
+94765,12/31/2014,Amazon Order - Science Book,-24,CA
+94765,12/31/2014,San Diego Museum,-31.81,CA
+94765,12/31/2014,Mary's Book Store,-38.17,CA
+94765,12/31/2014,Amazon Order - Mathematics Book,-26.26,CA

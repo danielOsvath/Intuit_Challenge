@@ -1031,21 +1031,21 @@ auth_id, Date, Vendor, Amount, Location
 99128,12/30/2013,Red Box DVD Rental,-39.17,CA
 99128,12/30/2013,Restaurant - Chinese,-99.37,CA
 99128,12/30/2013,Public Transportation - Train Pass,-74.77,CA
-99128,12/32/2013,Wine Delivery,-21.65,CA
-99128,12/32/2013,PlayStation Membership,-24.6,CA
-99128,12/32/2013,Podcast Subscription,-18.13,CA
-99128,12/32/2013,Podcast Subscription,-33.98,CA
-99128,12/32/2013,On Demand TV,-9.41,CA
-99128,12/32/2013,Food Delivery - GrubHub,-8.14,CA
-99128,12/32/2013,Public Transportation - Train Pass,-11.84,CA
-99128,12/32/2013,Pet Supply - Cat Food,-12.86,CA
-99128,12/32/2013,Pet Smart,-25.83,CA
-99128,12/32/2013,Starbucks Coffee,-28.92,CA
-99128,12/32/2013,Public Transportation - Bus Pass,-105.49,CA
-99128,12/32/2013,Pet Smart,-31.36,CA
-99128,12/32/2013,Public Transportation - Train Pass,-3.73,CA
-99128,12/32/2013,Lyft,-23.73,CA
-99128,12/32/2013,On Demand Movie,-39.06,CA
+99128,12/31/2013,Wine Delivery,-21.65,CA
+99128,12/31/2013,PlayStation Membership,-24.6,CA
+99128,12/31/2013,Podcast Subscription,-18.13,CA
+99128,12/31/2013,Podcast Subscription,-33.98,CA
+99128,12/31/2013,On Demand TV,-9.41,CA
+99128,12/31/2013,Food Delivery - GrubHub,-8.14,CA
+99128,12/31/2013,Public Transportation - Train Pass,-11.84,CA
+99128,12/31/2013,Pet Supply - Cat Food,-12.86,CA
+99128,12/31/2013,Pet Smart,-25.83,CA
+99128,12/31/2013,Starbucks Coffee,-28.92,CA
+99128,12/31/2013,Public Transportation - Bus Pass,-105.49,CA
+99128,12/31/2013,Pet Smart,-31.36,CA
+99128,12/31/2013,Public Transportation - Train Pass,-3.73,CA
+99128,12/31/2013,Lyft,-23.73,CA
+99128,12/31/2013,On Demand Movie,-39.06,CA
 99128,1/2/2014,Whole Foods,-4.11,CA
 99128,1/2/2014,PlayStation Membership,-9.4,CA
 99128,1/2/2014,Food Delivery - GrubHub,-35.11,CA
@@ -2140,4 +2140,4 @@ auth_id, Date, Vendor, Amount, Location
 99128,12/30/2014,Pet Supply - Cat Food,-35.19,CA
 99128,12/30/2014,Pet Smart,-2.64,CA
 99128,12/30/2014,On Demand Movie,-1.05,CA
-99128,12/32/2014,Pet Smart,-13.67,CA
+99128,12/31/2014,Pet Smart,-13.67,CA

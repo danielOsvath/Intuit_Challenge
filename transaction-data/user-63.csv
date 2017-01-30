@@ -1074,8 +1074,8 @@ auth_id, Date, Vendor, Amount, Location
 35277,12/30/2013,Lyft,-2.23,CA
 35277,12/30/2013,Taxi,-34.5,CA
 35277,12/30/2013,Music Lessons - Piano,-24.12,CA
-35277,12/32/2013,Whole Foods,-15.32,CA
-35277,12/32/2013,Ashley's Craft Store,-70.96,CA
+35277,12/31/2013,Whole Foods,-15.32,CA
+35277,12/31/2013,Ashley's Craft Store,-70.96,CA
 35277,1/2/2014,Public Transportation - Train Pass,-33.12,CA
 35277,1/2/2014,Ashley's Craft Store,-10.01,CA
 35277,1/2/2014,Amazon Order - Paint Bushes,-18.32,CA
@@ -2169,4 +2169,4 @@ auth_id, Date, Vendor, Amount, Location
 35277,12/30/2014,Art Auction,-80.67,CA
 35277,12/30/2014,Taxi,-27.06,CA
 35277,12/30/2014,Music Lessons - Piano,-5.27,CA
-35277,12/32/2014,Taxi,-35.91,CA
+35277,12/31/2014,Taxi,-35.91,CA

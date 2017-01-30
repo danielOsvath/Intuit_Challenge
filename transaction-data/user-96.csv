@@ -1050,7 +1050,7 @@ auth_id, Date, Vendor, Amount, Location
 91528,12/30/2013,Restaurant - Chinese,-17.49,CA
 91528,12/30/2013,Taxi,-5.62,CA
 91528,12/30/2013,Red Box DVD Rental,-29.51,CA
-91528,12/32/2013,Pet Supply - Cat Food,-17.93,CA
+91528,12/31/2013,Pet Supply - Cat Food,-17.93,CA
 91528,1/2/2014,Wine Delivery,-20.49,CA
 91528,1/2/2014,PlayStation Membership,-15.56,CA
 91528,1/2/2014,Taxi,-21.4,CA
@@ -2181,4 +2181,4 @@ auth_id, Date, Vendor, Amount, Location
 91528,12/30/2014,Pet Supply - Cat Food,-32.35,CA
 91528,12/30/2014,Von's Groceries,-49.48,CA
 91528,12/30/2014,Pet Supply - Cat Food,-35.21,CA
-91528,12/32/2014,Food Delivery - GrubHub,-29.37,CA
+91528,12/31/2014,Food Delivery - GrubHub,-29.37,CA

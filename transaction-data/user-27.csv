@@ -1085,7 +1085,7 @@ auth_id, Date, Vendor, Amount, Location
 43634,12/30/2013,Karaoke Bar,-11.49,CA
 43634,12/30/2013,Karaoke Bar,-8.67,CA
 43634,12/30/2013,Von's Groceries,-60.99,CA
-43634,12/32/2013,Karaoke Bar,-7.8,CA
+43634,12/31/2013,Karaoke Bar,-7.8,CA
 43634,1/2/2014,Whole Foods,-15.18,CA
 43634,1/2/2014,Karaoke Bar,-17.65,CA
 43634,1/2/2014,Lyft,-26.29,CA
@@ -2195,6 +2195,6 @@ auth_id, Date, Vendor, Amount, Location
 43634,12/29/2014,Green Flash Brewery,-18.55,CA
 43634,12/30/2014,Rodriguez's Bar and Grill,-3.25,CA
 43634,12/30/2014,Wine Bar,-17.35,CA
-43634,12/32/2014,Uber,-55.61,CA
-43634,12/32/2014,Uber,-13.49,CA
-43634,12/32/2014,Wine Bar,-2.58,CA
+43634,12/31/2014,Uber,-55.61,CA
+43634,12/31/2014,Uber,-13.49,CA
+43634,12/31/2014,Wine Bar,-2.58,CA

@@ -1181,8 +1181,8 @@ auth_id, Date, Vendor, Amount, Location
 77168,12/28/2013,Public Transportation - Train Pass,-4.22,CA
 77168,12/29/2013,Restaurant - Burgers,-58.66,CA
 77168,12/30/2013,Food Delivery - GrubHub,-33.67,CA
-77168,12/32/2013,Lyft,-34.56,CA
-77168,12/32/2013,Library Membership,-22.06,CA
+77168,12/31/2013,Lyft,-34.56,CA
+77168,12/31/2013,Library Membership,-22.06,CA
 77168,1/2/2014,Science Museum,-13.96,CA
 77168,1/2/2014,Coffee,-21.85,CA
 77168,1/2/2014,Restaurant - Burgers,-9.83,CA
@@ -2358,4 +2358,4 @@ auth_id, Date, Vendor, Amount, Location
 77168,12/28/2014,Amazon Order - Star Wars Figurine,-85.34,CA
 77168,12/29/2014,Amazon Order - Star Wars Figurine,-37.33,CA
 77168,12/30/2014,Uber,-17.09,CA
-77168,12/32/2014,Restaurant - Chinese,-98.95,CA
+77168,12/31/2014,Restaurant - Chinese,-98.95,CA

@@ -1099,7 +1099,7 @@ auth_id, Date, Vendor, Amount, Location
 72851,12/30/2013,Lyft,-24.69,CA
 72851,12/30/2013,Uber,-38.12,CA
 72851,12/30/2013,Public Transportation - Train Pass,-27.58,CA
-72851,12/32/2013,Dick's Sporting Goods,-30.24,CA
+72851,12/31/2013,Dick's Sporting Goods,-30.24,CA
 72851,1/2/2014,NBA Ticket - Lakers,-116.65,CA
 72851,1/2/2014,NFL Ticket - Chargers,-15.28,CA
 72851,1/2/2014,Public Transportation - Train Pass,-24.38,CA
@@ -2273,8 +2273,8 @@ auth_id, Date, Vendor, Amount, Location
 72851,12/28/2014,Sam's Sporting Apparel,-7.12,CA
 72851,12/29/2014,Taxi,-10.77,CA
 72851,12/30/2014,Vitamin Shoppe,-86.79,CA
-72851,12/32/2014,Amazon Order - Athletic Equipment,-10.31,CA
-72851,12/32/2014,NFL Ticket - Chargers,-3.93,CA
-72851,12/32/2014,Dick's Sporting Goods,-103.18,CA
-72851,12/32/2014,Uber,-28.05,CA
-72851,12/32/2014,Athletic Apparel,-37.32,CA
+72851,12/31/2014,Amazon Order - Athletic Equipment,-10.31,CA
+72851,12/31/2014,NFL Ticket - Chargers,-3.93,CA
+72851,12/31/2014,Dick's Sporting Goods,-103.18,CA
+72851,12/31/2014,Uber,-28.05,CA
+72851,12/31/2014,Athletic Apparel,-37.32,CA

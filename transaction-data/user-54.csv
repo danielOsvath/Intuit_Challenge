@@ -1177,11 +1177,11 @@ auth_id, Date, Vendor, Amount, Location
 40087,12/30/2013,Whole Foods,-18.06,CA
 40087,12/30/2013,Concert Ticket,-36.55,CA
 40087,12/30/2013,Rodriguez's Bar and Grill,-13.2,CA
-40087,12/32/2013,Public Transportation - Train Pass,-6.58,CA
-40087,12/32/2013,Seaside Bar,-19.45,CA
-40087,12/32/2013,Karaoke Bar,-62.11,CA
-40087,12/32/2013,Ice Skating Rink,-38.64,CA
-40087,12/32/2013,Public Transportation - Bus Pass,-20.09,CA
+40087,12/31/2013,Public Transportation - Train Pass,-6.58,CA
+40087,12/31/2013,Seaside Bar,-19.45,CA
+40087,12/31/2013,Karaoke Bar,-62.11,CA
+40087,12/31/2013,Ice Skating Rink,-38.64,CA
+40087,12/31/2013,Public Transportation - Bus Pass,-20.09,CA
 40087,1/2/2014,Fisker Night Club,-24.89,CA
 40087,1/2/2014,Fisker Night Club,-3.36,CA
 40087,1/2/2014,Concert Ticket,-3.73,CA
@@ -2354,4 +2354,4 @@ auth_id, Date, Vendor, Amount, Location
 40087,12/30/2014,Public Transportation - Bus Pass,-20.45,CA
 40087,12/30/2014,Lyft,-62.22,CA
 40087,12/30/2014,Whole Foods,-98.75,CA
-40087,12/32/2014,Von's Groceries,-14.08,CA
+40087,12/31/2014,Von's Groceries,-14.08,CA

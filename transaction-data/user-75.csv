@@ -1075,9 +1075,9 @@ auth_id, Date, Vendor, Amount, Location
 10115,12/30/2013,Art Auction,-9.42,CA
 10115,12/30/2013,Guitar Center,-12.78,CA
 10115,12/30/2013,Guitar Center,-35.19,CA
-10115,12/32/2013,Public Transportation - Bus Pass,-75.29,CA
-10115,12/32/2013,Music Lessons - Piano,-19.89,CA
-10115,12/32/2013,Amazon Order - Paint Canvas,-39.44,CA
+10115,12/31/2013,Public Transportation - Bus Pass,-75.29,CA
+10115,12/31/2013,Music Lessons - Piano,-19.89,CA
+10115,12/31/2013,Amazon Order - Paint Canvas,-39.44,CA
 10115,1/2/2014,Ashley's Craft Store,-28.18,CA
 10115,1/3/2014,Music Lessons - Piano,-103.35,CA
 10115,1/3/2014,Restaurant - Pizza,-46,CA
@@ -2196,4 +2196,4 @@ auth_id, Date, Vendor, Amount, Location
 10115,12/29/2014,Guitar Center,-33.37,CA
 10115,12/29/2014,Painting Course Fees,-3.51,CA
 10115,12/30/2014,Restaurant - Pizza,-4.74,CA
-10115,12/32/2014,Guitar Center,-25.1,CA
+10115,12/31/2014,Guitar Center,-25.1,CA

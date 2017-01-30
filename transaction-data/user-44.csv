@@ -1026,9 +1026,9 @@ auth_id, Date, Vendor, Amount, Location
 55836,12/29/2013,Credit Card Overdraft Fee,-28.22,CA
 55836,12/30/2013,Painting Course Fees,-14.41,CA
 55836,12/30/2013,Amazon Order - Paint Bushes,-32.98,CA
-55836,12/32/2013,Lyft,-17.25,CA
-55836,12/32/2013,Amazon Order - Paint Canvas,-8.25,CA
-55836,12/32/2013,Food Delivery - GrubHub,-5.79,CA
+55836,12/31/2013,Lyft,-17.25,CA
+55836,12/31/2013,Amazon Order - Paint Canvas,-8.25,CA
+55836,12/31/2013,Food Delivery - GrubHub,-5.79,CA
 55836,1/2/2014,Restaurant - Burgers,-16.77,CA
 55836,1/2/2014,Public Transportation - Train Pass,-29.7,CA
 55836,1/3/2014,Restaurant - Burgers,-15.37,CA
@@ -2118,7 +2118,7 @@ auth_id, Date, Vendor, Amount, Location
 55836,12/30/2014,Painting Course Fees,-19.76,CA
 55836,12/30/2014,Public Transportation - Train Pass,-20.89,CA
 55836,12/30/2014,Public Transportation - Bus Pass,-16.77,CA
-55836,12/32/2014,Art Auction,-29.93,CA
-55836,12/32/2014,Painting Course Fees,-46.47,CA
-55836,12/32/2014,Public Transportation - Train Pass,-6.74,CA
-55836,12/32/2014,Public Transportation - Train Pass,-37.34,CA
+55836,12/31/2014,Art Auction,-29.93,CA
+55836,12/31/2014,Painting Course Fees,-46.47,CA
+55836,12/31/2014,Public Transportation - Train Pass,-6.74,CA
+55836,12/31/2014,Public Transportation - Train Pass,-37.34,CA

@@ -1107,12 +1107,12 @@ auth_id, Date, Vendor, Amount, Location
 42061,12/30/2013,GNC,-35.23,CA
 42061,12/30/2013,Bike Rental,-0.65,CA
 42061,12/30/2013,Public Transportation - Train Pass,-28.4,CA
-42061,12/32/2013,Public Transportation - Train Pass,-119.22,CA
-42061,12/32/2013,Starbucks Coffee,-12.13,CA
-42061,12/32/2013,Food Delivery - GrubHub,-5.42,CA
-42061,12/32/2013,GNC,-33.5,CA
-42061,12/32/2013,NFL Ticket - Chargers,-12.75,CA
-42061,12/32/2013,Food Delivery - GrubHub,-30.78,CA
+42061,12/31/2013,Public Transportation - Train Pass,-119.22,CA
+42061,12/31/2013,Starbucks Coffee,-12.13,CA
+42061,12/31/2013,Food Delivery - GrubHub,-5.42,CA
+42061,12/31/2013,GNC,-33.5,CA
+42061,12/31/2013,NFL Ticket - Chargers,-12.75,CA
+42061,12/31/2013,Food Delivery - GrubHub,-30.78,CA
 42061,1/2/2014,Lyft,-30.21,CA
 42061,1/3/2014,Total Gym Fees,-11.04,CA
 42061,1/3/2014,Sprouts Market,-6.15,CA
@@ -2255,5 +2255,5 @@ auth_id, Date, Vendor, Amount, Location
 42061,12/30/2014,Total Gym Fees,-3.56,CA
 42061,12/30/2014,NBA Ticket - Lakers,-43.03,CA
 42061,12/30/2014,Restaurant - Burgers,-28.31,CA
-42061,12/32/2014,Dick's Sporting Goods,-26.49,CA
-42061,12/32/2014,Amazon Order - Athletic Equipment,-32.76,CA
+42061,12/31/2014,Dick's Sporting Goods,-26.49,CA
+42061,12/31/2014,Amazon Order - Athletic Equipment,-32.76,CA

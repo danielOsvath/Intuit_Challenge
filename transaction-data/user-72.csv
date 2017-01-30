@@ -1056,7 +1056,7 @@ auth_id, Date, Vendor, Amount, Location
 3015,12/30/2013,Taxi,-73.52,CA
 3015,12/30/2013,Amazon Order - Paint Bushes,-21.91,CA
 3015,12/30/2013,Lyft,-27.67,CA
-3015,12/32/2013,Art's Art Supplies,-17.19,CA
+3015,12/31/2013,Art's Art Supplies,-17.19,CA
 3015,1/2/2014,Public Transportation - Bus Pass,-21,CA
 3015,1/2/2014,Taxi,-20.5,CA
 3015,1/2/2014,Amazon Order - Paint Canvas,-26.04,CA
@@ -2154,5 +2154,5 @@ auth_id, Date, Vendor, Amount, Location
 3015,12/29/2014,Ashley's Craft Store,-55.59,CA
 3015,12/30/2014,Art Auction,-23.3,CA
 3015,12/30/2014,Uber,-33.34,CA
-3015,12/32/2014,Art Auction,-21.21,CA
-3015,12/32/2014,Bank Fee - Negative Balance,-30.57,CA
+3015,12/31/2014,Art Auction,-21.21,CA
+3015,12/31/2014,Bank Fee - Negative Balance,-30.57,CA

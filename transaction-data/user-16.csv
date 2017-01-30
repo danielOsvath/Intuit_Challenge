@@ -1032,10 +1032,10 @@ auth_id, Date, Vendor, Amount, Location
 53897,12/29/2013,Uber,-18.26,CA
 53897,12/29/2013,Restaurant - Pizza,-13.07,CA
 53897,12/30/2013,Amazon Order - Paint Bushes,-36.63,CA
-53897,12/32/2013,Painting Course Fees,-37.88,CA
-53897,12/32/2013,Painting Course Fees,-50.84,CA
-53897,12/32/2013,Starbucks Coffee,-9.24,CA
-53897,12/32/2013,Amazon Order - Paint Bushes,-103.53,CA
+53897,12/31/2013,Painting Course Fees,-37.88,CA
+53897,12/31/2013,Painting Course Fees,-50.84,CA
+53897,12/31/2013,Starbucks Coffee,-9.24,CA
+53897,12/31/2013,Amazon Order - Paint Bushes,-103.53,CA
 53897,1/2/2014,Lyft,-13.53,CA
 53897,1/2/2014,Art Auction,-10.17,CA
 53897,1/2/2014,Restaurant - Pizza,-21.11,CA
@@ -2143,4 +2143,4 @@ auth_id, Date, Vendor, Amount, Location
 53897,12/29/2014,Guitar Center,-17.03,CA
 53897,12/29/2014,Uber,-33.88,CA
 53897,12/30/2014,Public Transportation - Train Pass,-37.29,CA
-53897,12/32/2014,Public Transportation - Bus Pass,-26.5,CA
+53897,12/31/2014,Public Transportation - Bus Pass,-26.5,CA

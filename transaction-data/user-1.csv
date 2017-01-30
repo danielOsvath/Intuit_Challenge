@@ -1141,7 +1141,7 @@ auth_id, Date, Vendor, Amount, Location
 63891,12/30/2013,Von's Groceries,-87.69,CA
 63891,12/30/2013,Public Transportation - Train Pass,-78.96,CA
 63891,12/30/2013,Wine Bar,-13.34,CA
-63891,12/32/2013,Food Delivery - GrubHub,-23.37,CA
+63891,12/31/2013,Food Delivery - GrubHub,-23.37,CA
 63891,1/2/2014,Fisker Night Club,-30.74,CA
 63891,1/2/2014,Wine Bar,-19.44,CA
 63891,1/2/2014,Karaoke Bar,-78.88,CA
@@ -2317,5 +2317,5 @@ auth_id, Date, Vendor, Amount, Location
 63891,12/30/2014,Seaside Bar,-37.53,CA
 63891,12/30/2014,Lyft,-15.41,CA
 63891,12/30/2014,Taxi,-1.09,CA
-63891,12/32/2014,Fisker Night Club,-39.39,CA
-63891,12/32/2014,Uber,-35.59,CA
+63891,12/31/2014,Fisker Night Club,-39.39,CA
+63891,12/31/2014,Uber,-35.59,CA

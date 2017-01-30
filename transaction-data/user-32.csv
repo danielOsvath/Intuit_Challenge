@@ -1089,7 +1089,7 @@ auth_id, Date, Vendor, Amount, Location
 61519,12/30/2013,Total Gym Fees,-26.35,CA
 61519,12/30/2013,NFL Ticket - Chargers,-21.27,CA
 61519,12/30/2013,Amazon Order - Athletic Equipment,-5.56,CA
-61519,12/32/2013,Sprouts Market,-29.05,CA
+61519,12/31/2013,Sprouts Market,-29.05,CA
 61519,1/2/2014,Credit Card Overdraft Fee,-22.02,CA
 61519,1/2/2014,Von's Groceries,-34.76,CA
 61519,1/2/2014,Lyft,-34.8,CA
@@ -2182,4 +2182,4 @@ auth_id, Date, Vendor, Amount, Location
 61519,12/29/2014,Amazon Order - Athletic Equipment,-97.56,CA
 61519,12/30/2014,Restaurant - Burgers,-24.74,CA
 61519,12/30/2014,GNC,-79.98,CA
-61519,12/32/2014,Starbucks Coffee,-39.45,CA
+61519,12/31/2014,Starbucks Coffee,-39.45,CA

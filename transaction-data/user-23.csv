@@ -1118,7 +1118,7 @@ auth_id, Date, Vendor, Amount, Location
 44986,12/29/2013,Athletic Apparel,-31.43,CA
 44986,12/29/2013,GNC,-99.65,CA
 44986,12/30/2013,Food Delivery - GrubHub,-11.25,CA
-44986,12/32/2013,Starbucks Coffee,-117.89,CA
+44986,12/31/2013,Starbucks Coffee,-117.89,CA
 44986,1/2/2014,Time Warne Cable - Late Payment Fee,-38.25,CA
 44986,1/2/2014,Lyft,-35.22,CA
 44986,1/3/2014,Restaurant - Pizza,-84.1,CA
@@ -2294,5 +2294,5 @@ auth_id, Date, Vendor, Amount, Location
 44986,12/30/2014,Athletic Apparel,-1.31,CA
 44986,12/30/2014,Vitamin Shoppe,-29.25,CA
 44986,12/30/2014,NBA Ticket - Lakers,-9.74,CA
-44986,12/32/2014,Credit Card Overdraft Fee,-11.34,CA
-44986,12/32/2014,Lyft,-30.94,CA
+44986,12/31/2014,Credit Card Overdraft Fee,-11.34,CA
+44986,12/31/2014,Lyft,-30.94,CA

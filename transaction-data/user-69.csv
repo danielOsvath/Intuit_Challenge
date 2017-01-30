@@ -1074,11 +1074,11 @@ auth_id, Date, Vendor, Amount, Location
 13015,12/29/2013,Taxi,-12.71,CA
 13015,12/29/2013,Total Gym Fees,-62.34,CA
 13015,12/30/2013,Uber,-36.99,CA
-13015,12/32/2013,Dick's Sporting Goods,-13.25,CA
-13015,12/32/2013,Public Transportation - Bus Pass,-28.48,CA
-13015,12/32/2013,Restaurant - Burgers,-9.82,CA
-13015,12/32/2013,Sam's Sporting Apparel,-18,CA
-13015,12/32/2013,Bike Rental,-37.21,CA
+13015,12/31/2013,Dick's Sporting Goods,-13.25,CA
+13015,12/31/2013,Public Transportation - Bus Pass,-28.48,CA
+13015,12/31/2013,Restaurant - Burgers,-9.82,CA
+13015,12/31/2013,Sam's Sporting Apparel,-18,CA
+13015,12/31/2013,Bike Rental,-37.21,CA
 13015,1/2/2014,Ralph's Grocery Store,-47.83,CA
 13015,1/2/2014,GNC,-40.22,CA
 13015,1/2/2014,Athletic Apparel,-22.99,CA
@@ -2255,5 +2255,5 @@ auth_id, Date, Vendor, Amount, Location
 13015,12/29/2014,Vitamin Shoppe,-4.7,CA
 13015,12/30/2014,Taxi,-82.7,CA
 13015,12/30/2014,Restaurant - Pizza,-6.24,CA
-13015,12/32/2014,Amazon Order - Athletic Equipment,-115.43,CA
-13015,12/32/2014,Sprouts Market,-32.8,CA
+13015,12/31/2014,Amazon Order - Athletic Equipment,-115.43,CA
+13015,12/31/2014,Sprouts Market,-32.8,CA

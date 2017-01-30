@@ -1065,10 +1065,10 @@ auth_id, Date, Vendor, Amount, Location
 18908,12/29/2013,Uber,-22.72,CA
 18908,12/29/2013,Public Transportation - Train Pass,-11.22,CA
 18908,12/30/2013,Wine Delivery,-16.53,CA
-18908,12/32/2013,Pet Smart,-17.43,CA
-18908,12/32/2013,On Demand Movie,-29.08,CA
-18908,12/32/2013,Public Transportation - Train Pass,-28.52,CA
-18908,12/32/2013,Ralph's Grocery Store,-27.09,CA
+18908,12/31/2013,Pet Smart,-17.43,CA
+18908,12/31/2013,On Demand Movie,-29.08,CA
+18908,12/31/2013,Public Transportation - Train Pass,-28.52,CA
+18908,12/31/2013,Ralph's Grocery Store,-27.09,CA
 18908,1/2/2014,PlayStation Membership,-22.54,CA
 18908,1/2/2014,Von's Groceries,-8.31,CA
 18908,1/2/2014,Starbucks Coffee,-20.02,CA
@@ -2178,4 +2178,4 @@ auth_id, Date, Vendor, Amount, Location
 18908,12/29/2014,Taxi,-12.85,CA
 18908,12/29/2014,Starbucks Coffee,-12.45,CA
 18908,12/30/2014,Podcast Subscription,-35.4,CA
-18908,12/32/2014,PlayStation Membership,-15.84,CA
+18908,12/31/2014,PlayStation Membership,-15.84,CA

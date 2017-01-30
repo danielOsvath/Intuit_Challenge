@@ -1141,8 +1141,8 @@ auth_id, Date, Vendor, Amount, Location
 54454,12/30/2013,Public Transportation - Train Pass,-49.87,CA
 54454,12/30/2013,San Diego Museum,-4.51,CA
 54454,12/30/2013,Amazon Order - Biology Book,-86.1,CA
-54454,12/32/2013,San Diego Museum,-27.04,CA
-54454,12/32/2013,Library Membership,-8.78,CA
+54454,12/31/2013,San Diego Museum,-27.04,CA
+54454,12/31/2013,Library Membership,-8.78,CA
 54454,1/2/2014,Library Membership,-19.47,CA
 54454,1/2/2014,Library Membership,-12.92,CA
 54454,1/2/2014,Amazon Order - Science Book,-3.52,CA
@@ -2309,7 +2309,7 @@ auth_id, Date, Vendor, Amount, Location
 54454,12/29/2014,Library Membership,-94.51,CA
 54454,12/30/2014,Art Museum,-20.35,CA
 54454,12/30/2014,Uber,-26.4,CA
-54454,12/32/2014,Amazon Order - Star Wars Figurine,-36.78,CA
-54454,12/32/2014,Whole Foods,-95.19,CA
-54454,12/32/2014,Science Museum,-1.06,CA
-54454,12/32/2014,Art Museum,-7,CA
+54454,12/31/2014,Amazon Order - Star Wars Figurine,-36.78,CA
+54454,12/31/2014,Whole Foods,-95.19,CA
+54454,12/31/2014,Science Museum,-1.06,CA
+54454,12/31/2014,Art Museum,-7,CA

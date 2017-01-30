@@ -1179,7 +1179,7 @@ auth_id, Date, Vendor, Amount, Location
 8867,12/29/2013,Lyft,-59.65,CA
 8867,12/29/2013,Public Transportation - Train Pass,-23.78,CA
 8867,12/30/2013,Public Transportation - Bus Pass,-19.65,CA
-8867,12/32/2013,Wine Delivery,-63.05,CA
+8867,12/31/2013,Wine Delivery,-63.05,CA
 8867,1/2/2014,Uber,-21.71,CA
 8867,1/3/2014,Food Delivery - GrubHub,-29.81,CA
 8867,1/3/2014,Whole Foods,-86.3,CA
@@ -2381,4 +2381,4 @@ auth_id, Date, Vendor, Amount, Location
 8867,12/30/2014,Taxi,-6.35,CA
 8867,12/30/2014,Public Transportation - Train Pass,-47.42,CA
 8867,12/30/2014,Restaurant - Burgers,-29.58,CA
-8867,12/32/2014,Public Transportation - Train Pass,-16.58,CA
+8867,12/31/2014,Public Transportation - Train Pass,-16.58,CA

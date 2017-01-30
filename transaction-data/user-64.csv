@@ -1172,10 +1172,10 @@ auth_id, Date, Vendor, Amount, Location
 68995,12/29/2013,Restaurant - Steakhouse,-10.98,CA
 68995,12/30/2013,NFL Ticket - Chargers,-25.48,CA
 68995,12/30/2013,Vitamin Shoppe,-10.46,CA
-68995,12/32/2013,GNC,-7.89,CA
-68995,12/32/2013,Lyft,-10.35,CA
-68995,12/32/2013,Bike Rental,-34.03,CA
-68995,12/32/2013,Bike Rental,-18.84,CA
+68995,12/31/2013,GNC,-7.89,CA
+68995,12/31/2013,Lyft,-10.35,CA
+68995,12/31/2013,Bike Rental,-34.03,CA
+68995,12/31/2013,Bike Rental,-18.84,CA
 68995,1/2/2014,Bike Rental,-30.57,CA
 68995,1/2/2014,Von's Groceries,-39.86,CA
 68995,1/2/2014,Athletic Apparel,-101.84,CA
@@ -2258,5 +2258,5 @@ auth_id, Date, Vendor, Amount, Location
 68995,12/29/2014,Public Transportation - Train Pass,-10.22,CA
 68995,12/30/2014,NFL Ticket - Chargers,-0.59,CA
 68995,12/30/2014,Bike Rental,-32.92,CA
-68995,12/32/2014,Von's Groceries,-28.51,CA
-68995,12/32/2014,Taxi,-0.1,CA
+68995,12/31/2014,Von's Groceries,-28.51,CA
+68995,12/31/2014,Taxi,-0.1,CA

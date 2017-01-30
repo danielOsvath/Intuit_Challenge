@@ -1114,8 +1114,8 @@ auth_id, Date, Vendor, Amount, Location
 23752,12/30/2013,Karaoke Bar,-43.49,CA
 23752,12/30/2013,Seaside Bar,-14.15,CA
 23752,12/30/2013,Uber,-72.56,CA
-23752,12/32/2013,Owl Night Club,-31.63,CA
-23752,12/32/2013,Public Transportation - Bus Pass,-3.64,CA
+23752,12/31/2013,Owl Night Club,-31.63,CA
+23752,12/31/2013,Public Transportation - Bus Pass,-3.64,CA
 23752,1/2/2014,Bank Fee - Negative Balance,-37.89,CA
 23752,1/2/2014,Movie Ticket,-27.99,CA
 23752,1/2/2014,Karaoke Bar,-0.13,CA
@@ -2158,9 +2158,9 @@ auth_id, Date, Vendor, Amount, Location
 23752,12/30/2014,Public Transportation - Train Pass,-26.1,CA
 23752,12/30/2014,Housing Rent - Late Fee,-37.61,CA
 23752,12/30/2014,Credit Card Overdraft Fee,-22.5,CA
-23752,12/32/2014,Seaside Bar,-38.09,CA
-23752,12/32/2014,Fisker Night Club,-16.61,CA
-23752,12/32/2014,Restaurant - Chinese,-30.66,CA
-23752,12/32/2014,Public Transportation - Train Pass,-33.11,CA
-23752,12/32/2014,John's Bar & Restaurant,-17.28,CA
-23752,12/32/2014,Food Delivery - GrubHub,-15.19,CA
+23752,12/31/2014,Seaside Bar,-38.09,CA
+23752,12/31/2014,Fisker Night Club,-16.61,CA
+23752,12/31/2014,Restaurant - Chinese,-30.66,CA
+23752,12/31/2014,Public Transportation - Train Pass,-33.11,CA
+23752,12/31/2014,John's Bar & Restaurant,-17.28,CA
+23752,12/31/2014,Food Delivery - GrubHub,-15.19,CA

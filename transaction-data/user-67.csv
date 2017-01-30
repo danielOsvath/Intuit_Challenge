@@ -1114,7 +1114,7 @@ auth_id, Date, Vendor, Amount, Location
 46816,12/29/2013,Movie Ticket,-24.98,CA
 46816,12/29/2013,Restaurant - Steakhouse,-29.85,CA
 46816,12/30/2013,Sprouts Market,-20.12,CA
-46816,12/32/2013,Owl Night Club,-52.45,CA
+46816,12/31/2013,Owl Night Club,-52.45,CA
 46816,1/2/2014,Owl Night Club,-15.56,CA
 46816,1/2/2014,Lyft,-77.59,CA
 46816,1/2/2014,Food Delivery - GrubHub,-37.83,CA
@@ -2162,10 +2162,10 @@ auth_id, Date, Vendor, Amount, Location
 46816,12/30/2014,Fisker Night Club,-11.14,CA
 46816,12/30/2014,Owl Night Club,-49.39,CA
 46816,12/30/2014,Restaurant - Pizza,-43.33,CA
-46816,12/32/2014,Ice Skating Rink,-84.72,CA
-46816,12/32/2014,Concert Ticket,-29.38,CA
-46816,12/32/2014,Wine Bar,-28.6,CA
-46816,12/32/2014,Wine Bar,-8.12,CA
-46816,12/32/2014,Movie Ticket,-22.5,CA
-46816,12/32/2014,Fisker Night Club,-17.45,CA
-46816,12/32/2014,Uber,-30.96,CA
+46816,12/31/2014,Ice Skating Rink,-84.72,CA
+46816,12/31/2014,Concert Ticket,-29.38,CA
+46816,12/31/2014,Wine Bar,-28.6,CA
+46816,12/31/2014,Wine Bar,-8.12,CA
+46816,12/31/2014,Movie Ticket,-22.5,CA
+46816,12/31/2014,Fisker Night Club,-17.45,CA
+46816,12/31/2014,Uber,-30.96,CA

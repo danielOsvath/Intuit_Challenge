@@ -1136,9 +1136,9 @@ auth_id, Date, Vendor, Amount, Location
 83049,12/28/2013,Amazon Order - Biology Book,-14.17,CA
 83049,12/29/2013,Von's Groceries,-88.18,CA
 83049,12/30/2013,Video Game - PlayStation,-8.66,CA
-83049,12/32/2013,Uber,-90.15,CA
-83049,12/32/2013,Mary's Book Store,-13.53,CA
-83049,12/32/2013,Online Education Courses,-110.75,CA
+83049,12/31/2013,Uber,-90.15,CA
+83049,12/31/2013,Mary's Book Store,-13.53,CA
+83049,12/31/2013,Online Education Courses,-110.75,CA
 83049,1/2/2014,Video Game - PlayStation,-3.78,CA
 83049,1/3/2014,Taxi,-103.27,CA
 83049,1/3/2014,Ralph's Grocery Store,-24,CA
@@ -2198,5 +2198,5 @@ auth_id, Date, Vendor, Amount, Location
 83049,12/30/2014,Uber,-23.6,CA
 83049,12/30/2014,Science Museum,-33.87,CA
 83049,12/30/2014,Coffee,-19.94,CA
-83049,12/32/2014,Sprouts Market,-30.74,CA
-83049,12/32/2014,Goods2 - ThinkGeek,-69.63,CA
+83049,12/31/2014,Sprouts Market,-30.74,CA
+83049,12/31/2014,Goods2 - ThinkGeek,-69.63,CA

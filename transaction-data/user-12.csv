@@ -1163,7 +1163,7 @@ auth_id, Date, Vendor, Amount, Location
 15248,12/30/2013,Mary's Book Store,-23.11,CA
 15248,12/30/2013,Water & Sewer - Late Payment Penalty,-89.75,CA
 15248,12/30/2013,Coffee,-16.1,CA
-15248,12/32/2013,Food Delivery - GrubHub,-12.2,CA
+15248,12/31/2013,Food Delivery - GrubHub,-12.2,CA
 15248,1/2/2014,Bank Fee - Negative Balance,-88.86,CA
 15248,1/2/2014,DVD - Star Trek,-66.01,CA
 15248,1/2/2014,Library Membership,-10.52,CA
@@ -2470,6 +2470,6 @@ auth_id, Date, Vendor, Amount, Location
 15248,12/30/2014,Sprouts Market,-6.86,CA
 15248,12/30/2014,Ralph's Grocery Store,-89.5,CA
 15248,12/30/2014,Coffee,-26.66,CA
-15248,12/32/2014,Sprouts Market,-51.45,CA
-15248,12/32/2014,Online Education Courses,-38.74,CA
-15248,12/32/2014,Taxi,-16.92,CA
+15248,12/31/2014,Sprouts Market,-51.45,CA
+15248,12/31/2014,Online Education Courses,-38.74,CA
+15248,12/31/2014,Taxi,-16.92,CA

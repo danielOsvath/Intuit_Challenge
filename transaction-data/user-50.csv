@@ -1050,8 +1050,8 @@ auth_id, Date, Vendor, Amount, Location
 72019,12/30/2013,Uber,-36.73,CA
 72019,12/30/2013,Pet Smart,-55.55,CA
 72019,12/30/2013,Public Transportation - Bus Pass,-26.82,CA
-72019,12/32/2013,Pet Supply - Cat Food,-18.88,CA
-72019,12/32/2013,Food Delivery - Uber Eats,-19.73,CA
+72019,12/31/2013,Pet Supply - Cat Food,-18.88,CA
+72019,12/31/2013,Food Delivery - Uber Eats,-19.73,CA
 72019,1/2/2014,Uber,-35.73,CA
 72019,1/2/2014,On Demand TV,-29.56,CA
 72019,1/2/2014,Food Delivery - Uber Eats,-49.3,CA
@@ -2192,4 +2192,4 @@ auth_id, Date, Vendor, Amount, Location
 72019,12/30/2014,Public Transportation - Train Pass,-32.29,CA
 72019,12/30/2014,On Demand TV,-22.54,CA
 72019,12/30/2014,Starbucks Coffee,-39.8,CA
-72019,12/32/2014,Restaurant - Chinese,-33.39,CA
+72019,12/31/2014,Restaurant - Chinese,-33.39,CA

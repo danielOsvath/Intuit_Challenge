@@ -1040,8 +1040,8 @@ auth_id, Date, Vendor, Amount, Location
 28143,12/29/2013,Bike Rental,-38.83,CA
 28143,12/30/2013,NBA Ticket - Lakers,-24.33,CA
 28143,12/30/2013,Dick's Sporting Goods,-33.5,CA
-28143,12/32/2013,Public Transportation - Bus Pass,-97.94,CA
-28143,12/32/2013,Lyft,-2.06,CA
+28143,12/31/2013,Public Transportation - Bus Pass,-97.94,CA
+28143,12/31/2013,Lyft,-2.06,CA
 28143,1/2/2014,NBA Ticket - Lakers,-9.63,CA
 28143,1/2/2014,Amazon Order - Athletic Equipment,-5.06,CA
 28143,1/2/2014,Whole Foods,-14.59,CA
@@ -2298,4 +2298,4 @@ auth_id, Date, Vendor, Amount, Location
 28143,12/30/2014,Bike Rental,-6.81,CA
 28143,12/30/2014,NFL Ticket - Chargers,-31.16,CA
 28143,12/30/2014,Amazon Order - Athletic Equipment,-2.36,CA
-28143,12/32/2014,Von's Groceries,-27.66,CA
+28143,12/31/2014,Von's Groceries,-27.66,CA

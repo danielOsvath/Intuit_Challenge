@@ -1151,8 +1151,8 @@ auth_id, Date, Vendor, Amount, Location
 76016,12/30/2013,PlayStation Membership,-39.37,CA
 76016,12/30/2013,Pet Supply - Cat Food,-58.41,CA
 76016,12/30/2013,Pet Supply - Cat Food,-34.32,CA
-76016,12/32/2013,Red Box DVD Rental,-9.1,CA
-76016,12/32/2013,Food Delivery - GrubHub,-25.36,CA
+76016,12/31/2013,Red Box DVD Rental,-9.1,CA
+76016,12/31/2013,Food Delivery - GrubHub,-25.36,CA
 76016,1/2/2014,Podcast Subscription,-13.79,CA
 76016,1/2/2014,Restaurant - Chinese,-82.03,CA
 76016,1/3/2014,Pet Smart,-8.9,CA
@@ -2249,6 +2249,6 @@ auth_id, Date, Vendor, Amount, Location
 76016,12/29/2014,Sprouts Market,-23.32,CA
 76016,12/30/2014,Pet Smart,-12.42,CA
 76016,12/30/2014,Public Transportation - Bus Pass,-25.21,CA
-76016,12/32/2014,Uber,-10.74,CA
-76016,12/32/2014,Food Delivery - GrubHub,-66.15,CA
-76016,12/32/2014,Public Transportation - Bus Pass,-19.82,CA
+76016,12/31/2014,Uber,-10.74,CA
+76016,12/31/2014,Food Delivery - GrubHub,-66.15,CA
+76016,12/31/2014,Public Transportation - Bus Pass,-19.82,CA

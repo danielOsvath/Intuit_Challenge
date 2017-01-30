@@ -1098,8 +1098,8 @@ auth_id, Date, Vendor, Amount, Location
 50846,12/29/2013,Wine Bar,-21.46,CA
 50846,12/30/2013,Restaurant - Chinese,-34.73,CA
 50846,12/30/2013,John's Bar & Restaurant,-22.29,CA
-50846,12/32/2013,Karaoke Bar,-53.32,CA
-50846,12/32/2013,Public Transportation - Train Pass,-20.31,CA
+50846,12/31/2013,Karaoke Bar,-53.32,CA
+50846,12/31/2013,Public Transportation - Train Pass,-20.31,CA
 50846,1/2/2014,Taxi,-9.18,CA
 50846,1/2/2014,John's Bar & Restaurant,-32.09,CA
 50846,1/2/2014,Seaside Bar,-102.13,CA
@@ -2194,10 +2194,10 @@ auth_id, Date, Vendor, Amount, Location
 50846,12/30/2014,Karaoke Bar,-33.25,CA
 50846,12/30/2014,Owl Night Club,-62.38,CA
 50846,12/30/2014,Fisker Night Club,-34.49,CA
-50846,12/32/2014,Fisker Night Club,-27.2,CA
-50846,12/32/2014,Concert Ticket,-17.6,CA
-50846,12/32/2014,Seaside Bar,-21.11,CA
-50846,12/32/2014,Whole Foods,-36.42,CA
-50846,12/32/2014,Uber,-30.5,CA
-50846,12/32/2014,Bowling,-8.79,CA
-50846,12/32/2014,Restaurant - Pizza,-4.49,CA
+50846,12/31/2014,Fisker Night Club,-27.2,CA
+50846,12/31/2014,Concert Ticket,-17.6,CA
+50846,12/31/2014,Seaside Bar,-21.11,CA
+50846,12/31/2014,Whole Foods,-36.42,CA
+50846,12/31/2014,Uber,-30.5,CA
+50846,12/31/2014,Bowling,-8.79,CA
+50846,12/31/2014,Restaurant - Pizza,-4.49,CA

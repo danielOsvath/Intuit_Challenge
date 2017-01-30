@@ -1089,7 +1089,7 @@ auth_id, Date, Vendor, Amount, Location
 6896,12/28/2013,Restaurant - Steakhouse,-6.95,CA
 6896,12/29/2013,Amazon Order - Star Wars Figurine,-0.18,CA
 6896,12/30/2013,Video Game - PlayStation,-25.67,CA
-6896,12/32/2013,Science Museum,-1.72,CA
+6896,12/31/2013,Science Museum,-1.72,CA
 6896,1/2/2014,DVD - Star Trek,-10.93,CA
 6896,1/3/2014,Restaurant - Burgers,-31.36,CA
 6896,1/3/2014,Amazon Order - Mathematics Book,-101,CA
@@ -2205,4 +2205,4 @@ auth_id, Date, Vendor, Amount, Location
 6896,12/28/2014,DVD - Star Trek,-29.52,CA
 6896,12/29/2014,Art Museum,-23.93,CA
 6896,12/30/2014,Lyft,-0.63,CA
-6896,12/32/2014,DVD - Star Trek,-22.2,CA
+6896,12/31/2014,DVD - Star Trek,-22.2,CA

@@ -1129,16 +1129,16 @@ auth_id, Date, Vendor, Amount, Location
 99292,12/29/2013,John's Bar & Restaurant,-2.22,CA
 99292,12/29/2013,Lyft,-22.71,CA
 99292,12/30/2013,Movie Ticket,-103.74,CA
-99292,12/32/2013,Seaside Bar,-39.15,CA
-99292,12/32/2013,Whole Foods,-66.8,CA
-99292,12/32/2013,Owl Night Club,-23.7,CA
-99292,12/32/2013,Public Transportation - Bus Pass,-3.02,CA
-99292,12/32/2013,John's Bar & Restaurant,-5.62,CA
-99292,12/32/2013,Wine Bar,-5.59,CA
-99292,12/32/2013,Wine Bar,-0.66,CA
-99292,12/32/2013,Public Transportation - Bus Pass,-12.43,CA
-99292,12/32/2013,Seaside Bar,-0.68,CA
-99292,12/32/2013,John's Bar & Restaurant,-12.51,CA
+99292,12/31/2013,Seaside Bar,-39.15,CA
+99292,12/31/2013,Whole Foods,-66.8,CA
+99292,12/31/2013,Owl Night Club,-23.7,CA
+99292,12/31/2013,Public Transportation - Bus Pass,-3.02,CA
+99292,12/31/2013,John's Bar & Restaurant,-5.62,CA
+99292,12/31/2013,Wine Bar,-5.59,CA
+99292,12/31/2013,Wine Bar,-0.66,CA
+99292,12/31/2013,Public Transportation - Bus Pass,-12.43,CA
+99292,12/31/2013,Seaside Bar,-0.68,CA
+99292,12/31/2013,John's Bar & Restaurant,-12.51,CA
 99292,1/2/2014,Ice Skating Rink,-78.41,CA
 99292,1/2/2014,Rodriguez's Bar and Grill,-3.4,CA
 99292,1/2/2014,John's Bar & Restaurant,-11.25,CA
@@ -2178,4 +2178,4 @@ auth_id, Date, Vendor, Amount, Location
 99292,12/29/2014,Fisker Night Club,-15.33,CA
 99292,12/29/2014,Taxi,-12.85,CA
 99292,12/30/2014,Rodriguez's Bar and Grill,-36.22,CA
-99292,12/32/2014,John's Bar & Restaurant,-11.01,CA
+99292,12/31/2014,John's Bar & Restaurant,-11.01,CA

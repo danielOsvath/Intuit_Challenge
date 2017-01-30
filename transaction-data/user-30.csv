@@ -1040,10 +1040,10 @@ auth_id, Date, Vendor, Amount, Location
 3056,12/29/2013,Public Transportation - Train Pass,-8.05,CA
 3056,12/30/2013,San Diego Museum,-32.98,CA
 3056,12/30/2013,Uber,-33.82,CA
-3056,12/32/2013,Library Membership,-34.46,CA
-3056,12/32/2013,Art Museum,-111.86,CA
-3056,12/32/2013,Online Education Courses,-12.12,CA
-3056,12/32/2013,Amazon Order - Star Wars Figurine,-28.63,CA
+3056,12/31/2013,Library Membership,-34.46,CA
+3056,12/31/2013,Art Museum,-111.86,CA
+3056,12/31/2013,Online Education Courses,-12.12,CA
+3056,12/31/2013,Amazon Order - Star Wars Figurine,-28.63,CA
 3056,1/2/2014,Restaurant - Chinese,-21.05,CA
 3056,1/3/2014,Uber,-36.71,CA
 3056,1/3/2014,Sprouts Market,-18.52,CA
@@ -2146,4 +2146,4 @@ auth_id, Date, Vendor, Amount, Location
 3056,12/30/2014,Public Transportation - Train Pass,-6.74,CA
 3056,12/30/2014,Mary's Book Store,-19.61,CA
 3056,12/30/2014,Whole Foods,-41.53,CA
-3056,12/32/2014,Online Education Courses,-23.11,CA
+3056,12/31/2014,Online Education Courses,-23.11,CA

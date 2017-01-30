@@ -1227,9 +1227,9 @@ auth_id, Date, Vendor, Amount, Location
 9367,12/30/2013,Restaurant - Chinese,-48.05,CA
 9367,12/30/2013,Wine Delivery,-66,CA
 9367,12/30/2013,Public Transportation - Train Pass,-13.91,CA
-9367,12/32/2013,Podcast Subscription,-53.86,CA
-9367,12/32/2013,Podcast Subscription,-29.1,CA
-9367,12/32/2013,Lyft,-114.33,CA
+9367,12/31/2013,Podcast Subscription,-53.86,CA
+9367,12/31/2013,Podcast Subscription,-29.1,CA
+9367,12/31/2013,Lyft,-114.33,CA
 9367,1/2/2014,Red Box DVD Rental,-31.68,CA
 9367,1/3/2014,Food Delivery - GrubHub,-112.78,CA
 9367,1/4/2014,Public Transportation - Bus Pass,-109.73,CA
@@ -2368,7 +2368,7 @@ auth_id, Date, Vendor, Amount, Location
 9367,12/30/2014,Pet Smart,-24,CA
 9367,12/30/2014,Wine Delivery,-22.94,CA
 9367,12/30/2014,Lyft,-13.58,CA
-9367,12/32/2014,Restaurant - Chinese,-13.08,CA
-9367,12/32/2014,Pet Supply - Cat Food,-18.8,CA
-9367,12/32/2014,Wine Delivery,-19.87,CA
-9367,12/32/2014,PlayStation Membership,-13.12,CA
+9367,12/31/2014,Restaurant - Chinese,-13.08,CA
+9367,12/31/2014,Pet Supply - Cat Food,-18.8,CA
+9367,12/31/2014,Wine Delivery,-19.87,CA
+9367,12/31/2014,PlayStation Membership,-13.12,CA

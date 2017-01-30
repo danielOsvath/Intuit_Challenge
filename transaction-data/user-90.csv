@@ -1137,9 +1137,9 @@ auth_id, Date, Vendor, Amount, Location
 28328,12/30/2013,Painting Course Fees,-12.92,CA
 28328,12/30/2013,Ashley's Craft Store,-10.02,CA
 28328,12/30/2013,Uber,-32.54,CA
-28328,12/32/2013,Art's Art Supplies,-21.12,CA
-28328,12/32/2013,Restaurant - Steakhouse,-36.93,CA
-28328,12/32/2013,Restaurant - Burgers,-103.08,CA
+28328,12/31/2013,Art's Art Supplies,-21.12,CA
+28328,12/31/2013,Restaurant - Steakhouse,-36.93,CA
+28328,12/31/2013,Restaurant - Burgers,-103.08,CA
 28328,1/2/2014,Music Lessons - Piano,-25.57,CA
 28328,1/2/2014,Music Lessons - Piano,-3.43,CA
 28328,1/2/2014,Uber,-19.63,CA
@@ -2197,5 +2197,5 @@ auth_id, Date, Vendor, Amount, Location
 28328,12/30/2014,Ashley's Craft Store,-10.21,CA
 28328,12/30/2014,Ashley's Craft Store,-9.09,CA
 28328,12/30/2014,Ashley's Craft Store,-16.67,CA
-28328,12/32/2014,Starbucks Coffee,-29.61,CA
-28328,12/32/2014,Painting Course Fees,-7.85,CA
+28328,12/31/2014,Starbucks Coffee,-29.61,CA
+28328,12/31/2014,Painting Course Fees,-7.85,CA

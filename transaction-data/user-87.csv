@@ -1107,13 +1107,13 @@ auth_id, Date, Vendor, Amount, Location
 42018,12/30/2013,Food Delivery - Uber Eats,-30.03,CA
 42018,12/30/2013,Taxi,-16.63,CA
 42018,12/30/2013,Food Delivery - Uber Eats,-18.46,CA
-42018,12/32/2013,Wine Delivery,-13.63,CA
-42018,12/32/2013,Starbucks Coffee,-36.58,CA
-42018,12/32/2013,Food Delivery - Uber Eats,-23.42,CA
-42018,12/32/2013,Pet Supply - Cat Food,-24.81,CA
-42018,12/32/2013,Food Delivery - Uber Eats,-114.15,CA
-42018,12/32/2013,Food Delivery - Uber Eats,-8.71,CA
-42018,12/32/2013,Lyft,-27.27,CA
+42018,12/31/2013,Wine Delivery,-13.63,CA
+42018,12/31/2013,Starbucks Coffee,-36.58,CA
+42018,12/31/2013,Food Delivery - Uber Eats,-23.42,CA
+42018,12/31/2013,Pet Supply - Cat Food,-24.81,CA
+42018,12/31/2013,Food Delivery - Uber Eats,-114.15,CA
+42018,12/31/2013,Food Delivery - Uber Eats,-8.71,CA
+42018,12/31/2013,Lyft,-27.27,CA
 42018,1/2/2014,Taxi,-14.82,CA
 42018,1/2/2014,Food Delivery - Uber Eats,-2.5,CA
 42018,1/2/2014,Red Box DVD Rental,-6.7,CA
@@ -2252,6 +2252,6 @@ auth_id, Date, Vendor, Amount, Location
 42018,12/30/2014,Podcast Subscription,-11.17,CA
 42018,12/30/2014,Restaurant - Burgers,-35.35,CA
 42018,12/30/2014,Public Transportation - Bus Pass,-9.89,CA
-42018,12/32/2014,Pet Supply - Cat Food,-57.99,CA
-42018,12/32/2014,Ralph's Grocery Store,-14.04,CA
-42018,12/32/2014,Lyft,-16.54,CA
+42018,12/31/2014,Pet Supply - Cat Food,-57.99,CA
+42018,12/31/2014,Ralph's Grocery Store,-14.04,CA
+42018,12/31/2014,Lyft,-16.54,CA

@@ -1109,9 +1109,9 @@ auth_id, Date, Vendor, Amount, Location
 5349,12/28/2013,Amazon Order - Star Wars Figurine,-0.31,CA
 5349,12/29/2013,Taxi,-21.71,CA
 5349,12/30/2013,Amazon Order - Star Wars Figurine,-36.46,CA
-5349,12/32/2013,Amazon Order - Science Book,-68.74,CA
-5349,12/32/2013,Video Game - PlayStation,-38.29,CA
-5349,12/32/2013,Public Transportation - Bus Pass,-39.01,CA
+5349,12/31/2013,Amazon Order - Science Book,-68.74,CA
+5349,12/31/2013,Video Game - PlayStation,-38.29,CA
+5349,12/31/2013,Public Transportation - Bus Pass,-39.01,CA
 5349,1/2/2014,Restaurant - Chinese,-45.8,CA
 5349,1/2/2014,Amazon Order - Science Book,-65.88,CA
 5349,1/2/2014,DVD - Star Trek,-8.2,CA
@@ -2179,5 +2179,5 @@ auth_id, Date, Vendor, Amount, Location
 5349,12/30/2014,Lyft,-13.92,CA
 5349,12/30/2014,Amazon Order - Science Book,-1.48,CA
 5349,12/30/2014,Mary's Book Store,-88.57,CA
-5349,12/32/2014,San Diego Museum,-6.79,CA
-5349,12/32/2014,Public Transportation - Bus Pass,-3.52,CA
+5349,12/31/2014,San Diego Museum,-6.79,CA
+5349,12/31/2014,Public Transportation - Bus Pass,-3.52,CA

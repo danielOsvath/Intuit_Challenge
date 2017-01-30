@@ -1161,7 +1161,7 @@ auth_id, Date, Vendor, Amount, Location
 4567,12/30/2013,Total Gym Fees,-29.38,CA
 4567,12/30/2013,Restaurant - Chinese,-119.86,CA
 4567,12/30/2013,NBA Ticket - Lakers,-0.12,CA
-4567,12/32/2013,NFL Ticket - Chargers,-7.28,CA
+4567,12/31/2013,NFL Ticket - Chargers,-7.28,CA
 4567,1/2/2014,Starbucks Coffee,-30.97,CA
 4567,1/2/2014,Public Transportation - Bus Pass,-28.45,CA
 4567,1/2/2014,Restaurant - Steakhouse,-17.6,CA
@@ -2319,4 +2319,4 @@ auth_id, Date, Vendor, Amount, Location
 4567,12/30/2014,Von's Groceries,-0.96,CA
 4567,12/30/2014,Dick's Sporting Goods,-5.34,CA
 4567,12/30/2014,Public Transportation - Bus Pass,-11.12,CA
-4567,12/32/2014,Public Transportation - Bus Pass,-6.62,CA
+4567,12/31/2014,Public Transportation - Bus Pass,-6.62,CA

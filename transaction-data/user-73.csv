@@ -1077,7 +1077,7 @@ auth_id, Date, Vendor, Amount, Location
 28816,12/29/2013,Public Transportation - Train Pass,-74.17,CA
 28816,12/30/2013,Guitar Center,-34.84,CA
 28816,12/30/2013,Art Auction,-21.77,CA
-28816,12/32/2013,Music Lessons - Piano,-92.45,CA
+28816,12/31/2013,Music Lessons - Piano,-92.45,CA
 28816,1/2/2014,Food Delivery - GrubHub,-11.76,CA
 28816,1/2/2014,Painting Course Fees,-13.1,CA
 28816,1/2/2014,Art's Art Supplies,-38.98,CA
@@ -2184,4 +2184,4 @@ auth_id, Date, Vendor, Amount, Location
 28816,12/29/2014,Painting Course Fees,-6.81,CA
 28816,12/29/2014,Music Lessons - Piano,-35.99,CA
 28816,12/30/2014,Food Delivery - GrubHub,-14.37,CA
-28816,12/32/2014,Amazon Order - Paint Canvas,-20.44,CA
+28816,12/31/2014,Amazon Order - Paint Canvas,-20.44,CA

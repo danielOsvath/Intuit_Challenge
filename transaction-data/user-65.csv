@@ -1124,11 +1124,11 @@ auth_id, Date, Vendor, Amount, Location
 12013,12/29/2013,Starbucks Coffee,-34.87,CA
 12013,12/29/2013,NFL Ticket - Chargers,-10.11,CA
 12013,12/30/2013,Restaurant - Steakhouse,-18.67,CA
-12013,12/32/2013,Public Transportation - Train Pass,-29.86,CA
-12013,12/32/2013,NFL Ticket - Chargers,-2.69,CA
-12013,12/32/2013,Sprouts Market,-82.37,CA
-12013,12/32/2013,Sam's Sporting Apparel,-35.36,CA
-12013,12/32/2013,Restaurant - Chinese,-10.99,CA
+12013,12/31/2013,Public Transportation - Train Pass,-29.86,CA
+12013,12/31/2013,NFL Ticket - Chargers,-2.69,CA
+12013,12/31/2013,Sprouts Market,-82.37,CA
+12013,12/31/2013,Sam's Sporting Apparel,-35.36,CA
+12013,12/31/2013,Restaurant - Chinese,-10.99,CA
 12013,1/2/2014,Sprouts Market,-50.82,CA
 12013,1/2/2014,Sam's Sporting Apparel,-27.77,CA
 12013,1/2/2014,Dick's Sporting Goods,-38.79,CA
@@ -2303,7 +2303,7 @@ auth_id, Date, Vendor, Amount, Location
 12013,12/30/2014,Ralph's Grocery Store,-28.21,CA
 12013,12/30/2014,Restaurant - Pizza,-66.78,CA
 12013,12/30/2014,Amazon Order - Athletic Equipment,-10.63,CA
-12013,12/32/2014,Food Delivery - GrubHub,-4.35,CA
-12013,12/32/2014,Athletic Apparel,-12.02,CA
-12013,12/32/2014,Restaurant - Steakhouse,-1.54,CA
-12013,12/32/2014,Total Gym Fees,-33.91,CA
+12013,12/31/2014,Food Delivery - GrubHub,-4.35,CA
+12013,12/31/2014,Athletic Apparel,-12.02,CA
+12013,12/31/2014,Restaurant - Steakhouse,-1.54,CA
+12013,12/31/2014,Total Gym Fees,-33.91,CA

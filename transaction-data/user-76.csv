@@ -1147,13 +1147,13 @@ auth_id, Date, Vendor, Amount, Location
 1882,12/30/2013,Movie Ticket,-8.06,CA
 1882,12/30/2013,Uber,-58.97,CA
 1882,12/30/2013,Owl Night Club,-32.73,CA
-1882,12/32/2013,Karaoke Bar,-24.63,CA
-1882,12/32/2013,Mark's Movers,-8.97,CA
-1882,12/32/2013,FedEx Shipping,-23.93,CA
-1882,12/32/2013,Jerome's Furniture,-106.7,CA
-1882,12/32/2013,Home Depot,-12.78,CA
-1882,12/32/2013,Refrigerator Depot,-4.82,CA
-1882,12/32/2013,Hamilton Move & Storage,-33.02,CA
+1882,12/31/2013,Karaoke Bar,-24.63,CA
+1882,12/31/2013,Mark's Movers,-8.97,CA
+1882,12/31/2013,FedEx Shipping,-23.93,CA
+1882,12/31/2013,Jerome's Furniture,-106.7,CA
+1882,12/31/2013,Home Depot,-12.78,CA
+1882,12/31/2013,Refrigerator Depot,-4.82,CA
+1882,12/31/2013,Hamilton Move & Storage,-33.02,CA
 1882,1/2/2014,Fisker Night Club,-33.91,CA
 1882,1/3/2014,Owl Night Club,-15.77,CA
 1882,1/3/2014,Fisker Night Club,-18.68,CA
@@ -2319,6 +2319,6 @@ auth_id, Date, Vendor, Amount, Location
 1882,12/29/2014,Green Flash Brewery,-31,CA
 1882,12/30/2014,Karaoke Bar,-35.33,CA
 1882,12/30/2014,Karaoke Bar,-4.51,CA
-1882,12/32/2014,Uber,-1.1,CA
-1882,12/32/2014,Starbucks Coffee,-4.17,CA
-1882,12/32/2014,Seaside Bar,-24.99,CA
+1882,12/31/2014,Uber,-1.1,CA
+1882,12/31/2014,Starbucks Coffee,-4.17,CA
+1882,12/31/2014,Seaside Bar,-24.99,CA

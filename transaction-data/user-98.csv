@@ -1062,9 +1062,9 @@ auth_id, Date, Vendor, Amount, Location
 98104,12/28/2013,Restaurant - Steakhouse,-112.54,CA
 98104,12/29/2013,NBA Ticket - Lakers,-39.64,CA
 98104,12/30/2013,Bike Rental,-35.54,CA
-98104,12/32/2013,Amazon Order - Athletic Equipment,-36.07,CA
-98104,12/32/2013,Sam's Sporting Apparel,-39.95,CA
-98104,12/32/2013,Dick's Sporting Goods,-37.66,CA
+98104,12/31/2013,Amazon Order - Athletic Equipment,-36.07,CA
+98104,12/31/2013,Sam's Sporting Apparel,-39.95,CA
+98104,12/31/2013,Dick's Sporting Goods,-37.66,CA
 98104,1/2/2014,Amazon Order - Athletic Equipment,-34.65,CA
 98104,1/2/2014,NBA Ticket - Lakers,-36.42,CA
 98104,1/2/2014,Vitamin Shoppe,-7.5,CA
@@ -2273,6 +2273,6 @@ auth_id, Date, Vendor, Amount, Location
 98104,12/29/2014,Amazon Order - Athletic Equipment,-4.99,CA
 98104,12/29/2014,NFL Ticket - Chargers,-3.43,CA
 98104,12/30/2014,Total Gym Fees,-25.22,CA
-98104,12/32/2014,Sam's Sporting Apparel,-34.14,CA
-98104,12/32/2014,NBA Ticket - Lakers,-23.15,CA
-98104,12/32/2014,NFL Ticket - Chargers,-13.6,CA
+98104,12/31/2014,Sam's Sporting Apparel,-34.14,CA
+98104,12/31/2014,NBA Ticket - Lakers,-23.15,CA
+98104,12/31/2014,NFL Ticket - Chargers,-13.6,CA

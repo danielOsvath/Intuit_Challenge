@@ -1089,8 +1089,8 @@ auth_id, Date, Vendor, Amount, Location
 73275,12/29/2013,Restaurant - Chinese,-3,CA
 73275,12/29/2013,Public Transportation - Bus Pass,-8.28,CA
 73275,12/30/2013,On Demand Movie,-34.9,CA
-73275,12/32/2013,PlayStation Membership,-14.24,CA
-73275,12/32/2013,On Demand TV,-25.42,CA
+73275,12/31/2013,PlayStation Membership,-14.24,CA
+73275,12/31/2013,On Demand TV,-25.42,CA
 73275,1/2/2014,Podcast Subscription,-25.43,CA
 73275,1/2/2014,Pet Smart,-19.52,CA
 73275,1/2/2014,On Demand TV,-19.88,CA
@@ -2159,7 +2159,7 @@ auth_id, Date, Vendor, Amount, Location
 73275,12/29/2014,Lyft,-18.77,CA
 73275,12/29/2014,Von's Groceries,-54.23,CA
 73275,12/30/2014,Pet Supply - Cat Food,-20.43,CA
-73275,12/32/2014,Red Box DVD Rental,-2.14,CA
-73275,12/32/2014,Lyft,-16.47,CA
-73275,12/32/2014,Whole Foods,-6.37,CA
-73275,12/32/2014,Taxi,-11.61,CA
+73275,12/31/2014,Red Box DVD Rental,-2.14,CA
+73275,12/31/2014,Lyft,-16.47,CA
+73275,12/31/2014,Whole Foods,-6.37,CA
+73275,12/31/2014,Taxi,-11.61,CA

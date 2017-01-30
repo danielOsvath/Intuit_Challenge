@@ -1076,23 +1076,23 @@ auth_id, Date, Vendor, Amount, Location
 93372,12/30/2013,NBA Ticket - Lakers,-5.17,CA
 93372,12/30/2013,NBA Ticket - Lakers,-26.27,CA
 93372,12/30/2013,Dick's Sporting Goods,-17.65,CA
-93372,12/32/2013,Sprouts Market,-104.78,CA
-93372,12/32/2013,Bike Rental,-26.73,CA
-93372,12/32/2013,Lyft,-30.58,CA
-93372,12/32/2013,GNC,-89.89,CA
-93372,12/32/2013,Restaurant - Burgers,-4.55,CA
-93372,12/32/2013,Amazon Order - Athletic Equipment,-30.24,CA
-93372,12/32/2013,Sam's Sporting Apparel,-12.5,CA
-93372,12/32/2013,NBA Ticket - Lakers,-109.24,CA
-93372,12/32/2013,Uber,-9.6,CA
-93372,12/32/2013,Sam's Sporting Apparel,-32.42,CA
-93372,12/32/2013,Restaurant - Burgers,-28.24,CA
-93372,12/32/2013,Uber,-31.28,CA
-93372,12/32/2013,Amazon Order - Athletic Equipment,-22.55,CA
-93372,12/32/2013,Lyft,-39.47,CA
-93372,12/32/2013,NBA Ticket - Lakers,-10.17,CA
-93372,12/32/2013,Taxi,-0.66,CA
-93372,12/32/2013,Restaurant - Burgers,-19.35,CA
+93372,12/31/2013,Sprouts Market,-104.78,CA
+93372,12/31/2013,Bike Rental,-26.73,CA
+93372,12/31/2013,Lyft,-30.58,CA
+93372,12/31/2013,GNC,-89.89,CA
+93372,12/31/2013,Restaurant - Burgers,-4.55,CA
+93372,12/31/2013,Amazon Order - Athletic Equipment,-30.24,CA
+93372,12/31/2013,Sam's Sporting Apparel,-12.5,CA
+93372,12/31/2013,NBA Ticket - Lakers,-109.24,CA
+93372,12/31/2013,Uber,-9.6,CA
+93372,12/31/2013,Sam's Sporting Apparel,-32.42,CA
+93372,12/31/2013,Restaurant - Burgers,-28.24,CA
+93372,12/31/2013,Uber,-31.28,CA
+93372,12/31/2013,Amazon Order - Athletic Equipment,-22.55,CA
+93372,12/31/2013,Lyft,-39.47,CA
+93372,12/31/2013,NBA Ticket - Lakers,-10.17,CA
+93372,12/31/2013,Taxi,-0.66,CA
+93372,12/31/2013,Restaurant - Burgers,-19.35,CA
 93372,1/2/2014,NBA Ticket - Lakers,-20.95,CA
 93372,1/3/2014,NFL Ticket - Chargers,-25.94,CA
 93372,1/3/2014,Starbucks Coffee,-78.13,CA
@@ -2262,4 +2262,4 @@ auth_id, Date, Vendor, Amount, Location
 93372,12/30/2014,Restaurant - Chinese,-3.18,CA
 93372,12/30/2014,NFL Ticket - Chargers,-16.42,CA
 93372,12/30/2014,GNC,-55.57,CA
-93372,12/32/2014,Taxi,-26.75,CA
+93372,12/31/2014,Taxi,-26.75,CA

@@ -1059,11 +1059,11 @@ auth_id, Date, Vendor, Amount, Location
 94976,12/30/2013,Total Gym Fees,-6.29,CA
 94976,12/30/2013,Dick's Sporting Goods,-9.3,CA
 94976,12/30/2013,Restaurant - Pizza,-13.18,CA
-94976,12/32/2013,Public Transportation - Train Pass,-116.87,CA
-94976,12/32/2013,NBA Ticket - Lakers,-108.98,CA
-94976,12/32/2013,Athletic Apparel,-65.75,CA
-94976,12/32/2013,Amazon Order - Athletic Equipment,-38.75,CA
-94976,12/32/2013,Bike Rental,-88.94,CA
+94976,12/31/2013,Public Transportation - Train Pass,-116.87,CA
+94976,12/31/2013,NBA Ticket - Lakers,-108.98,CA
+94976,12/31/2013,Athletic Apparel,-65.75,CA
+94976,12/31/2013,Amazon Order - Athletic Equipment,-38.75,CA
+94976,12/31/2013,Bike Rental,-88.94,CA
 94976,1/2/2014,Bike Rental,-2.18,CA
 94976,1/2/2014,Vitamin Shoppe,-4.09,CA
 94976,1/2/2014,NFL Ticket - Chargers,-22.74,CA
@@ -2178,5 +2178,5 @@ auth_id, Date, Vendor, Amount, Location
 94976,12/30/2014,Vitamin Shoppe,-117.84,CA
 94976,12/30/2014,Food Delivery - GrubHub,-37.45,CA
 94976,12/30/2014,Athletic Apparel,-92.65,CA
-94976,12/32/2014,Starbucks Coffee,-16.43,CA
-94976,12/32/2014,NBA Ticket - Lakers,-10.71,CA
+94976,12/31/2014,Starbucks Coffee,-16.43,CA
+94976,12/31/2014,NBA Ticket - Lakers,-10.71,CA

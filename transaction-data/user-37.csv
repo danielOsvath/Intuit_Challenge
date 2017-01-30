@@ -1124,7 +1124,7 @@ auth_id, Date, Vendor, Amount, Location
 94501,12/29/2013,Karaoke Bar,-17.67,CA
 94501,12/30/2013,Rodriguez's Bar and Grill,-0.12,CA
 94501,12/30/2013,Wine Bar,-14.9,CA
-94501,12/32/2013,Public Transportation - Train Pass,-73.89,CA
+94501,12/31/2013,Public Transportation - Train Pass,-73.89,CA
 94501,1/2/2014,Rodriguez's Bar and Grill,-25.03,CA
 94501,1/2/2014,Kay Jewelry,-32.16,CA
 94501,1/2/2014,Wedding Planner,-24.8,CA
@@ -2249,7 +2249,7 @@ auth_id, Date, Vendor, Amount, Location
 94501,12/30/2014,Public Transportation - Bus Pass,-16.94,CA
 94501,12/30/2014,Karaoke Bar,-14.47,CA
 94501,12/30/2014,Bowling,-53.98,CA
-94501,12/32/2014,Wine Bar,-12.06,CA
-94501,12/32/2014,Ice Skating Rink,-3.72,CA
-94501,12/32/2014,Whole Foods,-66.46,CA
-94501,12/32/2014,Rodriguez's Bar and Grill,-51.08,CA
+94501,12/31/2014,Wine Bar,-12.06,CA
+94501,12/31/2014,Ice Skating Rink,-3.72,CA
+94501,12/31/2014,Whole Foods,-66.46,CA
+94501,12/31/2014,Rodriguez's Bar and Grill,-51.08,CA

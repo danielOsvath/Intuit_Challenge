@@ -1048,15 +1048,15 @@ auth_id, Date, Vendor, Amount, Location
 22696,12/30/2013,Dick's Sporting Goods,-31.61,CA
 22696,12/30/2013,Dick's Sporting Goods,-38.94,CA
 22696,12/30/2013,GNC,-24.73,CA
-22696,12/32/2013,Starbucks Coffee,-37.21,CA
-22696,12/32/2013,Restaurant - Pizza,-26.65,CA
-22696,12/32/2013,NFL Ticket - Chargers,-22.33,CA
-22696,12/32/2013,Vitamin Shoppe,-34.66,CA
-22696,12/32/2013,Starbucks Coffee,-88.01,CA
-22696,12/32/2013,Vitamin Shoppe,-33.3,CA
-22696,12/32/2013,Amazon Order - Athletic Equipment,-35.48,CA
-22696,12/32/2013,Athletic Apparel,-18.07,CA
-22696,12/32/2013,Vitamin Shoppe,-38.23,CA
+22696,12/31/2013,Starbucks Coffee,-37.21,CA
+22696,12/31/2013,Restaurant - Pizza,-26.65,CA
+22696,12/31/2013,NFL Ticket - Chargers,-22.33,CA
+22696,12/31/2013,Vitamin Shoppe,-34.66,CA
+22696,12/31/2013,Starbucks Coffee,-88.01,CA
+22696,12/31/2013,Vitamin Shoppe,-33.3,CA
+22696,12/31/2013,Amazon Order - Athletic Equipment,-35.48,CA
+22696,12/31/2013,Athletic Apparel,-18.07,CA
+22696,12/31/2013,Vitamin Shoppe,-38.23,CA
 22696,1/2/2014,Restaurant - Pizza,-19,CA
 22696,1/3/2014,Amazon Order - Athletic Equipment,-25.93,CA
 22696,1/3/2014,Vitamin Shoppe,-31.33,CA
@@ -2155,7 +2155,7 @@ auth_id, Date, Vendor, Amount, Location
 22696,12/30/2014,Food Delivery - GrubHub,-8.37,CA
 22696,12/30/2014,Sam's Sporting Apparel,-37.5,CA
 22696,12/30/2014,Amazon Order - Athletic Equipment,-9.28,CA
-22696,12/32/2014,Whole Foods,-52.63,CA
-22696,12/32/2014,NFL Ticket - Chargers,-4.77,CA
-22696,12/32/2014,Public Transportation - Bus Pass,-35.53,CA
-22696,12/32/2014,Amazon Order - Athletic Equipment,-0.29,CA
+22696,12/31/2014,Whole Foods,-52.63,CA
+22696,12/31/2014,NFL Ticket - Chargers,-4.77,CA
+22696,12/31/2014,Public Transportation - Bus Pass,-35.53,CA
+22696,12/31/2014,Amazon Order - Athletic Equipment,-0.29,CA

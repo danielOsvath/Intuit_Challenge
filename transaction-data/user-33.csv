@@ -1140,9 +1140,9 @@ auth_id, Date, Vendor, Amount, Location
 7338,12/29/2013,Podcast Subscription,-20.07,CA
 7338,12/30/2013,On Demand Movie,-27,CA
 7338,12/30/2013,Lyft,-90.49,CA
-7338,12/32/2013,Public Transportation - Train Pass,-70.59,CA
-7338,12/32/2013,On Demand Movie,-53.83,CA
-7338,12/32/2013,Food Delivery - Uber Eats,-11.1,CA
+7338,12/31/2013,Public Transportation - Train Pass,-70.59,CA
+7338,12/31/2013,On Demand Movie,-53.83,CA
+7338,12/31/2013,Food Delivery - Uber Eats,-11.1,CA
 7338,1/2/2014,Food Delivery - Uber Eats,-54.04,CA
 7338,1/2/2014,On Demand Movie,-2.17,CA
 7338,1/3/2014,Public Transportation - Bus Pass,-37.1,CA
@@ -2092,6 +2092,6 @@ auth_id, Date, Vendor, Amount, Location
 7338,12/29/2014,Wine Delivery,-21.38,CA
 7338,12/30/2014,Public Transportation - Train Pass,-4.67,CA
 7338,12/30/2014,Pet Supply - Cat Food,-6.07,CA
-7338,12/32/2014,Pet Supply - Cat Food,-3.48,CA
-7338,12/32/2014,Pet Supply - Cat Food,-8.73,CA
-7338,12/32/2014,Sprouts Market,-39.5,CA
+7338,12/31/2014,Pet Supply - Cat Food,-3.48,CA
+7338,12/31/2014,Pet Supply - Cat Food,-8.73,CA
+7338,12/31/2014,Sprouts Market,-39.5,CA

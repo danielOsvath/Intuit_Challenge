@@ -1100,8 +1100,8 @@ auth_id, Date, Vendor, Amount, Location
 16910,12/29/2013,NBA Ticket - Lakers,-12.6,CA
 16910,12/29/2013,Restaurant - Steakhouse,-23.96,CA
 16910,12/30/2013,Food Delivery - GrubHub,-7.4,CA
-16910,12/32/2013,Restaurant - Chinese,-32.49,CA
-16910,12/32/2013,Amazon Order - Athletic Equipment,-15.77,CA
+16910,12/31/2013,Restaurant - Chinese,-32.49,CA
+16910,12/31/2013,Amazon Order - Athletic Equipment,-15.77,CA
 16910,1/2/2014,Sam's Sporting Apparel,-28.52,CA
 16910,1/2/2014,Lyft,-43.63,CA
 16910,1/2/2014,NFL Ticket - Chargers,-8.65,CA
@@ -2103,4 +2103,4 @@ auth_id, Date, Vendor, Amount, Location
 16910,12/30/2014,GNC,-26.83,CA
 16910,12/30/2014,Sam's Sporting Apparel,-25.02,CA
 16910,12/30/2014,Restaurant - Steakhouse,-9.04,CA
-16910,12/32/2014,Taxi,-5.15,CA
+16910,12/31/2014,Taxi,-5.15,CA

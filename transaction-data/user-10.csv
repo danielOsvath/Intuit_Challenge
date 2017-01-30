@@ -1154,7 +1154,7 @@ auth_id, Date, Vendor, Amount, Location
 7299,12/29/2013,Goods2 - ThinkGeek,-53.47,CA
 7299,12/30/2013,Public Transportation - Train Pass,-89.08,CA
 7299,12/30/2013,Amazon Order - Star Wars Figurine,-29.72,CA
-7299,12/32/2013,Ralph's Grocery Store,-36.2,CA
+7299,12/31/2013,Ralph's Grocery Store,-36.2,CA
 7299,1/2/2014,Mary's Book Store,-2.16,CA
 7299,1/2/2014,Food Delivery - GrubHub,-32.97,CA
 7299,1/3/2014,Food Delivery - GrubHub,-10.67,CA
@@ -2289,5 +2289,5 @@ auth_id, Date, Vendor, Amount, Location
 7299,12/30/2014,Public Transportation - Bus Pass,-30.71,CA
 7299,12/30/2014,Science Museum,-107.69,CA
 7299,12/30/2014,Mary's Book Store,-1.89,CA
-7299,12/32/2014,Taxi,-31.22,CA
-7299,12/32/2014,Food Delivery - GrubHub,-4.13,CA
+7299,12/31/2014,Taxi,-31.22,CA
+7299,12/31/2014,Food Delivery - GrubHub,-4.13,CA

@@ -1116,12 +1116,12 @@ auth_id, Date, Vendor, Amount, Location
 89593,12/30/2013,Restaurant - Pizza,-5.58,CA
 89593,12/30/2013,Lyft,-7.75,CA
 89593,12/30/2013,Restaurant - Pizza,-32.1,CA
-89593,12/32/2013,Wine Bar,-83.58,CA
-89593,12/32/2013,Fisker Night Club,-32.08,CA
-89593,12/32/2013,Public Transportation - Bus Pass,-15.97,CA
-89593,12/32/2013,Rodriguez's Bar and Grill,-18.25,CA
-89593,12/32/2013,Ice Skating Rink,-9.26,CA
-89593,12/32/2013,Taxi,-80.4,CA
+89593,12/31/2013,Wine Bar,-83.58,CA
+89593,12/31/2013,Fisker Night Club,-32.08,CA
+89593,12/31/2013,Public Transportation - Bus Pass,-15.97,CA
+89593,12/31/2013,Rodriguez's Bar and Grill,-18.25,CA
+89593,12/31/2013,Ice Skating Rink,-9.26,CA
+89593,12/31/2013,Taxi,-80.4,CA
 89593,1/2/2014,Rodriguez's Bar and Grill,-20.89,CA
 89593,1/2/2014,Public Transportation - Train Pass,-17.38,CA
 89593,1/3/2014,Ice Skating Rink,-8.37,CA
@@ -2282,4 +2282,4 @@ auth_id, Date, Vendor, Amount, Location
 89593,12/30/2014,Public Transportation - Bus Pass,-20.88,CA
 89593,12/30/2014,Restaurant - Chinese,-14.11,CA
 89593,12/30/2014,Wine Bar,-24.79,CA
-89593,12/32/2014,Wine Bar,-36.7,CA
+89593,12/31/2014,Wine Bar,-36.7,CA

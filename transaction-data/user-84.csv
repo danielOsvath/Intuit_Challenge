@@ -1154,8 +1154,8 @@ auth_id, Date, Vendor, Amount, Location
 9340,12/29/2013,Public Transportation - Train Pass,-27.99,CA
 9340,12/30/2013,Taxi,-26.64,CA
 9340,12/30/2013,Online Education Courses,-0.82,CA
-9340,12/32/2013,Restaurant - Steakhouse,-2.5,CA
-9340,12/32/2013,Library Membership,-6.98,CA
+9340,12/31/2013,Restaurant - Steakhouse,-2.5,CA
+9340,12/31/2013,Library Membership,-6.98,CA
 9340,1/2/2014,Library Membership,-53.74,CA
 9340,1/2/2014,Lyft,-27.57,CA
 9340,1/2/2014,Public Transportation - Train Pass,-11.27,CA
@@ -2329,7 +2329,7 @@ auth_id, Date, Vendor, Amount, Location
 9340,12/30/2014,Art Museum,-92.12,CA
 9340,12/30/2014,Lyft,-27.32,CA
 9340,12/30/2014,Video Game - PlayStation,-94.58,CA
-9340,12/32/2014,Uber,-6.27,CA
-9340,12/32/2014,Goods2 - ThinkGeek,-13.24,CA
-9340,12/32/2014,Mary's Book Store,-12.58,CA
-9340,12/32/2014,Public Transportation - Bus Pass,-9.04,CA
+9340,12/31/2014,Uber,-6.27,CA
+9340,12/31/2014,Goods2 - ThinkGeek,-13.24,CA
+9340,12/31/2014,Mary's Book Store,-12.58,CA
+9340,12/31/2014,Public Transportation - Bus Pass,-9.04,CA

@@ -1151,14 +1151,14 @@ auth_id, Date, Vendor, Amount, Location
 43085,12/29/2013,Coffee,-7.47,CA
 43085,12/29/2013,Restaurant - Steakhouse,-3.38,CA
 43085,12/30/2013,Amazon Order - Star Wars Figurine,-20.07,CA
-43085,12/32/2013,Library Membership,-39.08,CA
-43085,12/32/2013,Goods2 - ThinkGeek,-27.56,CA
-43085,12/32/2013,Sprouts Market,-28.99,CA
-43085,12/32/2013,Public Transportation - Bus Pass,-50.95,CA
-43085,12/32/2013,Sprouts Market,-29.08,CA
-43085,12/32/2013,Public Transportation - Bus Pass,-39.13,CA
-43085,12/32/2013,Coffee,-4.84,CA
-43085,12/32/2013,Public Transportation - Bus Pass,-34.34,CA
+43085,12/31/2013,Library Membership,-39.08,CA
+43085,12/31/2013,Goods2 - ThinkGeek,-27.56,CA
+43085,12/31/2013,Sprouts Market,-28.99,CA
+43085,12/31/2013,Public Transportation - Bus Pass,-50.95,CA
+43085,12/31/2013,Sprouts Market,-29.08,CA
+43085,12/31/2013,Public Transportation - Bus Pass,-39.13,CA
+43085,12/31/2013,Coffee,-4.84,CA
+43085,12/31/2013,Public Transportation - Bus Pass,-34.34,CA
 43085,1/2/2014,Amazon Order - Biology Book,-22.02,CA
 43085,1/2/2014,Sprouts Market,-2.09,CA
 43085,1/2/2014,Online Education Courses,-9.94,CA
@@ -2323,4 +2323,4 @@ auth_id, Date, Vendor, Amount, Location
 43085,12/30/2014,Online Education Courses,-24.58,CA
 43085,12/30/2014,Goods2 - ThinkGeek,-86.36,CA
 43085,12/30/2014,Video Game - PlayStation,-29.64,CA
-43085,12/32/2014,Amazon Order - Star Wars Figurine,-35.13,CA
+43085,12/31/2014,Amazon Order - Star Wars Figurine,-35.13,CA

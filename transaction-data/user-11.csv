@@ -1140,12 +1140,12 @@ auth_id, Date, Vendor, Amount, Location
 56930,12/30/2013,Painting Course Fees,-39.06,CA
 56930,12/30/2013,Public Transportation - Train Pass,-10.67,CA
 56930,12/30/2013,Ashley's Craft Store,-1.89,CA
-56930,12/32/2013,Ralph's Grocery Store,-25.1,CA
-56930,12/32/2013,Michael's Crafts,-41.28,CA
-56930,12/32/2013,Taxi,-4.9,CA
-56930,12/32/2013,Music Lessons - Piano,-0.79,CA
-56930,12/32/2013,Art Auction,-17.73,CA
-56930,12/32/2013,Food Delivery - GrubHub,-65.87,CA
+56930,12/31/2013,Ralph's Grocery Store,-25.1,CA
+56930,12/31/2013,Michael's Crafts,-41.28,CA
+56930,12/31/2013,Taxi,-4.9,CA
+56930,12/31/2013,Music Lessons - Piano,-0.79,CA
+56930,12/31/2013,Art Auction,-17.73,CA
+56930,12/31/2013,Food Delivery - GrubHub,-65.87,CA
 56930,1/2/2014,Music Lessons - Piano,-34.29,CA
 56930,1/2/2014,Restaurant - Chinese,-13.24,CA
 56930,1/3/2014,Amazon Order - Paint Canvas,-37.17,CA
@@ -2171,6 +2171,6 @@ auth_id, Date, Vendor, Amount, Location
 56930,12/29/2014,Michael's Crafts,-35.29,CA
 56930,12/29/2014,Restaurant - Pizza,-65.42,CA
 56930,12/30/2014,Amazon Order - Paint Canvas,-18.76,CA
-56930,12/32/2014,Music Lessons - Piano,-25.16,CA
-56930,12/32/2014,Food Delivery - GrubHub,-38.36,CA
-56930,12/32/2014,Taxi,-29.06,CA
+56930,12/31/2014,Music Lessons - Piano,-25.16,CA
+56930,12/31/2014,Food Delivery - GrubHub,-38.36,CA
+56930,12/31/2014,Taxi,-29.06,CA

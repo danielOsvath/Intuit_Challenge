@@ -1103,9 +1103,9 @@ auth_id, Date, Vendor, Amount, Location
 35187,12/30/2013,Starbucks Coffee,-14.94,CA
 35187,12/30/2013,Restaurant - Pizza,-114.43,CA
 35187,12/30/2013,Food Delivery - GrubHub,-30.09,CA
-35187,12/32/2013,Sprouts Market,-27.8,CA
-35187,12/32/2013,Bike Rental,-24.94,CA
-35187,12/32/2013,Amazon Order - Athletic Equipment,-20.69,CA
+35187,12/31/2013,Sprouts Market,-27.8,CA
+35187,12/31/2013,Bike Rental,-24.94,CA
+35187,12/31/2013,Amazon Order - Athletic Equipment,-20.69,CA
 35187,1/2/2014,Taxi,-22.19,CA
 35187,1/3/2014,Sam's Sporting Apparel,-25.88,CA
 35187,1/3/2014,NFL Ticket - Chargers,-24.87,CA
@@ -2224,4 +2224,4 @@ auth_id, Date, Vendor, Amount, Location
 35187,12/29/2014,Lyft,-74.79,CA
 35187,12/29/2014,Public Transportation - Bus Pass,-28.45,CA
 35187,12/30/2014,Sam's Sporting Apparel,-19.73,CA
-35187,12/32/2014,Whole Foods,-25.21,CA
+35187,12/31/2014,Whole Foods,-25.21,CA

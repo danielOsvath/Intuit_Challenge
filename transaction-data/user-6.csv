@@ -1208,19 +1208,19 @@ auth_id, Date, Vendor, Amount, Location
 37948,12/29/2013,Von's Groceries,-26.82,CA
 37948,12/30/2013,GNC,-11.66,CA
 37948,12/30/2013,Public Transportation - Train Pass,-16.8,CA
-37948,12/32/2013,Ralph's Grocery Store,-37.79,CA
-37948,12/32/2013,Total Gym Fees,-2.49,CA
-37948,12/32/2013,Athletic Apparel,-30.81,CA
-37948,12/32/2013,Food Delivery - GrubHub,-70.23,CA
-37948,12/32/2013,Uber,-19.53,CA
-37948,12/32/2013,Public Transportation - Bus Pass,-10.75,CA
-37948,12/32/2013,NFL Ticket - Chargers,-41.19,CA
-37948,12/32/2013,Public Transportation - Bus Pass,-21.93,CA
-37948,12/32/2013,Uber,-119.94,CA
-37948,12/32/2013,Amazon Order - Athletic Equipment,-25.21,CA
-37948,12/32/2013,Vitamin Shoppe,-35.58,CA
-37948,12/32/2013,Bike Rental,-28.76,CA
-37948,12/32/2013,Sam's Sporting Apparel,-38.11,CA
+37948,12/31/2013,Ralph's Grocery Store,-37.79,CA
+37948,12/31/2013,Total Gym Fees,-2.49,CA
+37948,12/31/2013,Athletic Apparel,-30.81,CA
+37948,12/31/2013,Food Delivery - GrubHub,-70.23,CA
+37948,12/31/2013,Uber,-19.53,CA
+37948,12/31/2013,Public Transportation - Bus Pass,-10.75,CA
+37948,12/31/2013,NFL Ticket - Chargers,-41.19,CA
+37948,12/31/2013,Public Transportation - Bus Pass,-21.93,CA
+37948,12/31/2013,Uber,-119.94,CA
+37948,12/31/2013,Amazon Order - Athletic Equipment,-25.21,CA
+37948,12/31/2013,Vitamin Shoppe,-35.58,CA
+37948,12/31/2013,Bike Rental,-28.76,CA
+37948,12/31/2013,Sam's Sporting Apparel,-38.11,CA
 37948,1/2/2014,Restaurant - Pizza,-2.45,CA
 37948,1/2/2014,Starbucks Coffee,-0.01,CA
 37948,1/2/2014,Dick's Sporting Goods,-13.75,CA
@@ -2338,5 +2338,5 @@ auth_id, Date, Vendor, Amount, Location
 37948,12/29/2014,Uber,-13.86,CA
 37948,12/29/2014,GNC,-20.08,CA
 37948,12/30/2014,Starbucks Coffee,-33.43,CA
-37948,12/32/2014,Sam's Sporting Apparel,-39.45,CA
-37948,12/32/2014,GNC,-0.03,CA
+37948,12/31/2014,Sam's Sporting Apparel,-39.45,CA
+37948,12/31/2014,GNC,-0.03,CA
