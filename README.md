@@ -51,3 +51,9 @@ There were two prevalent key features in the user transaction data that suggest 
 
 ### Relationship Info
 There were three prevalent key features in the user transaction data that can reveal information about a user’s relationship. First: *Divorce*, we may assume that users who have paid a divorce attorney are thinking about divorce. Second: *Wedding*, we may assume that users who have paid a wedding planner are thinking about a wedding. (It is assumed only one of these cases is true, one can not be planning a divorce if not married, nor planning a wedding if already thinking about divorce). Third: *Jewelry*, if the keywords wedding and divorce are not triggered, then through jewelry we can assume the relationship is healthy. If none of these are found, we assume there are no troubling signs for the relationship. 
+
+## Hobbies
+When looking for the hobbies of a user, all transactions are first ranked by frequency. I found a good number to look for is above 80. Any transaction that is repeated 80 or more times within two years is a hobby, as it means the transaction (or activity) is repeated on an average of every 9 days. Once we have the top transactions with greater frequency than 80, the program filters transportation activity using keywords like *transport*, *uber* etc.. 
+
+## Financials
+To determine the monthly average spending, transactions (that are expenses) from each year are separately summed for the year and the result is divided by 12 (Months in a year). The annual expenses would simply be the result without dividing. A user’s income is determined by summing the credits to the account throughout the year. In our transactions, the main income is paycheck income. In real life, any transaction that credits to the account would be considered income, from investments for ex. (Transactions from friends and family could then be filtered using keywords.) 
