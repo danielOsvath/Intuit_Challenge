@@ -215,7 +215,7 @@ def stripkeyWords(str):
     """
 
     notHobby = ["Food", "Apparel", "Courses", "Grill", "Restaurant", "Coffee",
-                "Vitamin",]
+                "Vitamin"]
 
     for n in notHobby:
         if n in str:
