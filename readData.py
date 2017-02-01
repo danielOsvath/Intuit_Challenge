@@ -3,6 +3,7 @@
     Parses the data and creates a new table that includes a
     wide range of distinct details (or features)
     about each individual from the data set.
+
     file: readData.py
     author: Daniel Osvath Londono
     created Jan 29 2017
@@ -18,10 +19,13 @@ NUMBER_OF_USERS = 100
 AMOUNT_MONTHS = 24
 
 
-
 def loadUserData(current):
     """
-        Load the data for a user.
+        Load the data for a user, specified by number.
+
+        :param current: the number of the current user.
+
+        :returns the user (pandas) file instance.
     """
     filename = "transaction-data/user-" + current + ".csv"
     user = pandas.read_csv(filename)
@@ -29,18 +33,21 @@ def loadUserData(current):
     return user
 
 
-
 def avg_spending_and_income(year,user):
     """
         Get the average monthly, annual spending of a user, and income
         for the given year.
 
-        :param user: user data instance.
+        :param  year: the given year
+                user: user data instance.
+
+        :returns an array of data [monthlyAvgExpense, annualExpense, income]
     """
 
     expensesum = 0
     income = 0
 
+    # format dates from csv column
     user[' Date'] = pandas.to_datetime(user[' Date'], format="%m/%d/%Y")
 
     start = "1/1/" + year
@@ -65,130 +72,261 @@ def avg_spending_and_income(year,user):
     return [monthlyAvg, annually, income]
 
 
-def spending_income(user,userData):
+def spending_income(user):
+    """
+        Get the spending and income information for the two years of data.
+
+        :param user: the user data instance.
+
+        :returns an array of strings that notes the avg monthly spending and
+        income for years 2013 and 2014. (String array bc. ready to write for csv)
+    """
 
     spending_and_income_2013 = avg_spending_and_income("2013", user)
 
     avgMonthly_2013 = spending_and_income_2013[0]
-    annual_2013 = spending_and_income_2013[1]
+    # annual_2013 = spending_and_income_2013[1]
     income_2013 = spending_and_income_2013[2]
 
     spending_and_income_2014 = avg_spending_and_income("2014", user)
 
     avgMonthly_2014 = spending_and_income_2014[0]
-    annual_2014 = spending_and_income_2014[1]
+    # annual_2014 = spending_and_income_2014[1]
     income_2014 = spending_and_income_2014[2]
 
     yrOne = "Avg monthly spending: " + str(avgMonthly_2013) + " Income : " + str(income_2013)
     yrTwo = "Avg monthly spending: " + str(avgMonthly_2014) + " Income : " + str(income_2014)
 
-    userData += [yrOne, yrTwo]
+    return [yrOne, yrTwo]
 
 
 def containsKey(string, array):
     """
-        Boolean.
+        Check whether an array of keywords contains a specific keyword.
+
+        :param  string: keyword to look for
+                array: array of keywords.
+
+        :returns a boolean whether the array contains the keyword.
     """
+
     string = string.upper()
 
     for element in array:
         s = element.upper()
-        if (string in s): return True
+        if string in s: return True
 
     return False
 
 
-def checkStudent(keywords, userData):
+def checkStudent(keywords):
+    """
+        Checks the keywords for course,
+        (things that are associated with students) and returns
+        a string for the csv table.
 
-    if (containsKey("Course", keywords)):
-        userData.append("Yes")
+        :param keywords: array of keywords to search.
+
+        :returns a string representing the result.
+    """
+
+    if containsKey("Course", keywords) or containsKey("Education",keywords):
+        return "Yes"
     else:
-        userData.append("No")
+        return "No"
 
 
-def checkChildren(keywords,userData):
+def checkChildren(keywords):
+    """
+        Checks the keywords for things that are associated with children,
+        or babies and returns a string for the csv table.
+
+        :param keywords: array of keywords to search.
+
+        :returns a string representing the result.
+    """
 
     babyComing = containsKey("Prenatal", keywords)
     baby = containsKey("Baby", keywords)
 
-    if(babyComing):
-        userData.append("Baby is on the way.")
-    elif(baby):
-        userData.append("Has children")
+    if babyComing:
+        return "Baby is on the way."
+    elif baby:
+        return "Has children."
     else:
-        userData.append("No Children")
+        return "No Children."
 
 
-def checkRelationship(keywords, userData):
+def checkRelationship(keywords):
+    """
+        Checks the keywords for things that are associated with relationships,
+        and returns a string for the csv table.
+
+        :param keywords: array of keywords to search.
+
+        :returns a string representing the result.
+    """
 
     divorce = containsKey("Divorce", keywords)
     jewelry = containsKey("Jewelry", keywords)
     wedding = containsKey("wedding", keywords)
 
-    if(divorce):
-        userData.append("Thinking about divorce.")
-    elif(wedding):
-        userData.append("Planning wedding.")
-    elif(jewelry):
-        userData.append("Recently purchased jewelry, relation seems to be healthy.")
+    if divorce:
+        return "Thinking about divorce."
+    elif wedding:
+        return ("Planning wedding.")
+    elif jewelry:
+        return "Recently purchased jewelry, relation seems to be healthy."
     else:
-        userData.append("No troubling signs.")
+        return "No troubling signs."
+
+
+def isTransportation(string):
+    """
+        Check if a certain string is associated with transportation expenses.
+
+        :param string - string to check
+
+        :returns boolean whether is associated with transport.
+    """
+
+    s = string.upper()
+
+    return "TAXI" in s or "LYFT" in s or "UBER" in s or "TRANSPORT" in s
+
+
+def stripkeyWords(str):
+    """
+        Strip common keywords from transactions, to be written as hobbies.
+
+        :param str: string to strip
+
+        :returns string as hobby label
+    """
+
+    notHobby = ["Food", "Apparel", "Courses", "Grill", "Restaurant", "Coffee",
+                "Vitamin",]
+
+    for n in notHobby:
+        if n in str:
+            str = ""
+            return str
+
+    replaceDict = { " Ticket" : "s", " Supplies" : "", " Course Fees" : "",
+                    "Auction" : "Auctions", "Art's " : "",
+                    "Amazon Order - " : "", "Delivery" : "", " Rental" : "",
+                    " Membership" : "", " Fees" : "", " Book" : "",
+                    "Library" : "Reading", "DVD - " : "", "GNC" : "Sports",
+                    "Paining Course" : "Painting", "Paint Bushes" : "",
+                    " Subscription" : "s", "Paint Canvas" : "",
+                    "Game - PlayStation" : "Games", " Equipment" : "s"}
+
+    for key in replaceDict:
+        str = str.replace(key, replaceDict[key])
+
+    return str
+
+
+def checkHobbies(rankedkeywords):
+    """
+        Check for a user's hobbies.
+        Takes into account the type of most frequent
+        transactions within the two year period.
+
+        A good number to check above is 80,
+        meaning the transaction is repeated on the avg of every 9 days.
+
+    """
+    hobbies = ""
+
+    indexes = rankedkeywords.index  # need to do this way because of pandas lib.
+
+    for keyW in indexes:
+        if rankedkeywords[keyW] >= 80 and not isTransportation(keyW):
+
+            s = stripkeyWords(keyW)
+            if s != "":
+                hobbies += s + ". "
+
+    return hobbies
+
+def getUserFeatures(currentUser):
+    """
+        Checks the keywords for things that are associated with user features,
+        and returns a row of data (arr of str) for the csv table.
+
+        :param currentUser: data instance of the current user.
+
+        :returns an array of strings redy to be written in a csv table.
+    """
+
+    userData = []
+
+    # Get transactions by frequency.
+    rankedKeywords = currentUser[' Vendor'].value_counts()
+
+    # Types of transactions.
+    keywords = rankedKeywords.index.tolist()
+
+    userData.append(currentUser['auth_id'].iloc[0])
+
+    # Check keywords for features and append result to userData array.
+    userData.append(checkStudent(keywords))
+    userData.append(checkChildren(keywords))
+    userData.append(checkRelationship(keywords))
+    userData.append(checkHobbies(rankedKeywords))
+
+    userData += spending_income(currentUser)  # returns arr.
+
+    # checkOther
+    # lloking to move:
+    moving = (containsKey("Move", keywords) or containsKey("Movers", keywords))
+    # Troubling paycheck finances, overdraft fee
+    # could be getting larger paycheck if income < 1/2 * expense ->
+    # trouble for relationship
+
+    return userData
+
+
+def printRow(userData):
+    pass
 
 
 def createCSV():
     """
-        Create the default csv.
+        Create the default csv, and print header row for table.
     """
     c = csv.writer(open("results.csv", "w"))
 
-    c.writerow(["User ID", " Student ", " Children ", " Relationship Info ",
-                " Hobbies ", " 2014 Financials ", "2013 Financials ", " Other "])
+    header = ["User ID", " Student ", " Children ", " Relationship Info ",
+              " Hobbies ", " 2014 Financials ", "2013 Financials ", " Other "]
+
+    c.writerow(header)
+
+    printRow(header)
 
     return c
+
 
 def main():
     """
         Read the data for a number of users, and record info in results table.
         (Assuming transaction data is provided, within range
         and named user-#.csv)
-
-        :param amount: amount of user data to read
     """
 
     c = createCSV()  # create the results file.
 
-    for current in range(0,100):
-
-        userData = [] # data of current user
+    for current in range(0,NUMBER_OF_USERS):
 
         currentUser = loadUserData(str(current))
 
-        # get top counts - return array of strings of top transactions
-        rankedKeywords = currentUser[' Vendor'].value_counts()
-        keywords = rankedKeywords.index.tolist()
-
-        userData.append(currentUser['auth_id'].iloc[0])
-
-        checkStudent(keywords,userData)
-
-        checkChildren(keywords,userData)
-
-        checkRelationship(keywords,userData)
+        # get feature data for current user
+        userData = getUserFeatures(currentUser)
 
         c.writerow(userData)
 
-        #spending_and_income = spending_income(currentUser,userData)
-
-        #lloking to move:
-        moving = (containsKey("Move",keywords) or containsKey("Movers",keywords))
-
-        #Troubling paycheck finances,
-        # could be getting larger paycheck if income < 1/2 * expense ->
-        # trouble for relationship
-
-        #hobbies
-
-        print(userData)
+        printRow(userData)
 
 
 
