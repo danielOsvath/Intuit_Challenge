@@ -333,7 +333,7 @@ def createCSV(header):
 def loadInfo():
 
     print("RIT Intuit Challenge by Daniel Osvath Londono \n"
-          "Writing csv file and creating table...")
+          "Writing csv file to project directory and creating table...")
 
 
 def main():
