@@ -12,7 +12,7 @@
 import pandas
 import csv
 
-import tables
+from prettytable import PrettyTable
 
 #amount of user data to read.
 NUMBER_OF_USERS = 100
@@ -97,9 +97,9 @@ def spending_income(user):
     income_2014 = int(round(spending_and_income_2014[2],0))
 
     yrOne = "Avg Monthly Sp.: $" + str(avgMonthly_2013) + \
-            "; Income : $" + str(income_2013)
+            "\n Total Income : $" + str(income_2013) + "\n"
     yrTwo = "Avg Monthly Sp.: $" + str(avgMonthly_2014) + \
-            "; Income : $" + str(income_2014)
+            "\n Total Income : $" + str(income_2014) +"\n"
 
     return [yrOne, yrTwo]
 
@@ -229,7 +229,8 @@ def stripkeyWords(str):
                     "Library" : "Reading", "DVD - " : "", "GNC" : "Sports",
                     "Paining Course" : "Painting", "Paint Bushes" : "",
                     " Subscription" : "s", "Paint Canvas" : "",
-                    "Game - PlayStation" : "Games", " Equipment" : "s"}
+                    "Game - PlayStation" : "Games", " Equipment" : "s",
+                    " Course" : ""}
 
     for key in replaceDict:
         str = str.replace(key, replaceDict[key])
@@ -245,6 +246,10 @@ def checkHobbies(rankedkeywords):
 
         A good number to check above is 80,
         meaning the transaction is repeated on the avg of every 9 days.
+
+        :param rankedkeywords: the transaction keywords ranked by count
+
+        :returns string of hobbies for the user.
 
     """
     hobbies = ""
@@ -262,6 +267,13 @@ def checkHobbies(rankedkeywords):
 
 
 def checkOther(keywords):
+    """
+        Check additional info for the user.
+
+        :param keywords: keywords from transactions.
+
+        :returns other info about user.
+    """
 
     otherInfo = ""
 
@@ -307,25 +319,21 @@ def getUserFeatures(currentUser):
     return userData
 
 
-def printRow(userData):
-    print(userData)
-    # pass
-
-
-def createCSV():
+def createCSV(header):
     """
         Create the default csv, and print header row for table.
     """
     c = csv.writer(open("results.csv", "w"))
 
-    header = ["User ID", " Student ", " Children ", " Relationship Info ",
-              " Hobbies ", " 2014 Financials ", "2013 Financials ", " Other "]
-
     c.writerow(header)
 
-    printRow(header)
-
     return c
+
+
+def loadInfo():
+
+    print("RIT Intuit Challenge by Daniel Osvath Londono \n"
+          "Writing csv file and creating table...")
 
 
 def main():
@@ -335,9 +343,15 @@ def main():
         and named user-#.csv)
     """
 
-    c = createCSV()  # create the results file.
+    loadInfo()
 
-    for current in range(0,15):
+    header = ["User ID", " Student ", " Children ", " Relationship Info ",
+              " Hobbies ", " 2014 Financials ", "2013 Financials ", " Other "]
+
+    table = PrettyTable(header) # create table for output.
+    c = createCSV(header)  # create the results file.
+
+    for current in range(0,NUMBER_OF_USERS):
 
         currentUser = loadUserData(str(current))
 
@@ -345,9 +359,9 @@ def main():
         userData = getUserFeatures(currentUser)
 
         c.writerow(userData)
+        table.add_row(userData)
 
-        printRow(userData)
-
+    print(table)
 
 
 if __name__ == '__main__':
