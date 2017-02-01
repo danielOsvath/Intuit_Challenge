@@ -59,3 +59,6 @@ Thinking beyond this project: This could also be done using a more involved solu
 
 ### Financials
 To determine the monthly average spending, transactions (that are expenses) from each year are separately summed for the year and the result is divided by 12 (Months in a year). The annual expenses would simply be the result without dividing. A user’s income is determined by summing the credits to the account throughout the year. In our transactions, the main income is paycheck income. In real life, any transaction that credits to the account would be considered income, from investments for ex. (Transactions from friends and family could then be filtered using keywords.) 
+
+### Other
+Other relevant information for a user would be whether they are planning to move, have had overdraft fees or have travelled. The program looks for keywords such as *move* or *movers*, *hotel*, and *overdraft fee*, to determine this information. 
