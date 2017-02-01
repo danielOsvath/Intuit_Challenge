@@ -7,7 +7,7 @@
 
 https://github.com/danielOsvath/Intuit_Challenge/invitations
 
-**Important:** Please use transaction .csv files from the downloaded .zip from my project, because the original ones for the challenge had a mistake: there were dates 12/32/2013 and 12/32/2014, which caused errors for date formatting libraries, as there is no 32nd day in a month. This has been fixed in the files in my project.
+**Important:** Please use transaction .csv files from the downloaded .zip from my project, because the original ones for the challenge had a mistake: there were dates 12/32/2013 and 12/32/2014, which caused errors for date formatting libraries, as there is no 32nd day in a month. This has been fixed in the files of my project.
 
 ### 2) Download Anaconda – a library for data tools
 
