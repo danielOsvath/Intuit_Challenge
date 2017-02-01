@@ -1,6 +1,6 @@
 # Intuit_Challenge
 
-## Install 
+## Installation
 
 ### 1) Download project from Github as a .zip. 
 (I have invited Intuit-Recruiting on Github as a collaborator.)
