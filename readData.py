@@ -224,7 +224,7 @@ def stripkeyWords(str):
 
     replaceDict = { " Ticket" : "s", " Supplies" : "", " Course Fees" : "",
                     "Auction" : "Auctions", "Art's " : "",
-                    "Amazon Order - " : "", "Delivery" : "", " Rental" : "",
+                    "Amazon Order - " : "", " Delivery" : "", " Rental" : "",
                     " Membership" : "", " Fees" : "", " Book" : "",
                     "Library" : "Reading", "DVD - " : "", "GNC" : "Sports",
                     "Paining Course" : "Painting", "Paint Bushes" : "",
