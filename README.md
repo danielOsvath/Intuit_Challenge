@@ -19,7 +19,7 @@ Download the graphical or command line installer and install, there are specific
 
 Open **terminal.** 
 
-Before running, make sure the terminal window is at least 350 characters in width, because it outputs a wide table (you may have to do some dragging). 350 x 62 is a good size. 
+Before running, make sure the terminal window is at least 350 characters in width, because it outputs a wide table (you may have to do some dragging). **350 x 62** is a good size. 
 
 Type: `python`
 
