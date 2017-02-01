@@ -230,7 +230,7 @@ def stripkeyWords(str):
                     "Paining Course" : "Painting", "Paint Bushes" : "",
                     " Subscription" : "s", "Paint Canvas" : "",
                     "Game - PlayStation" : "Games", " Equipment" : "s",
-                    " Course" : ""}
+                    " Course" : "", " Rink" : "", "Figurine" : "Figurines"}
 
     for key in replaceDict:
         str = str.replace(key, replaceDict[key])
