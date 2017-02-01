@@ -12,6 +12,8 @@
 import pandas
 import csv
 
+import tables
+
 #amount of user data to read.
 NUMBER_OF_USERS = 100
 
@@ -84,18 +86,20 @@ def spending_income(user):
 
     spending_and_income_2013 = avg_spending_and_income("2013", user)
 
-    avgMonthly_2013 = spending_and_income_2013[0]
+    avgMonthly_2013 = int(round(spending_and_income_2013[0],0))
     # annual_2013 = spending_and_income_2013[1]
-    income_2013 = spending_and_income_2013[2]
+    income_2013 = int(round(spending_and_income_2013[2],0))
 
     spending_and_income_2014 = avg_spending_and_income("2014", user)
 
-    avgMonthly_2014 = spending_and_income_2014[0]
+    avgMonthly_2014 = int(round(spending_and_income_2014[0],0))
     # annual_2014 = spending_and_income_2014[1]
-    income_2014 = spending_and_income_2014[2]
+    income_2014 = int(round(spending_and_income_2014[2],0))
 
-    yrOne = "Avg monthly spending: " + str(avgMonthly_2013) + " Income : " + str(income_2013)
-    yrTwo = "Avg monthly spending: " + str(avgMonthly_2014) + " Income : " + str(income_2014)
+    yrOne = "Avg Monthly Sp.: $" + str(avgMonthly_2013) + \
+            "; Income : $" + str(income_2013)
+    yrTwo = "Avg Monthly Sp.: $" + str(avgMonthly_2014) + \
+            "; Income : $" + str(income_2014)
 
     return [yrOne, yrTwo]
 
@@ -192,7 +196,13 @@ def isTransportation(string):
 
     s = string.upper()
 
-    return "TAXI" in s or "LYFT" in s or "UBER" in s or "TRANSPORT" in s
+    transp = ["TAXI", "LYFT", "UBER", "TRANSPORT"]
+
+    for m in transp:
+        if m in s:
+            return True
+
+    return False
 
 
 def stripkeyWords(str):
@@ -250,6 +260,22 @@ def checkHobbies(rankedkeywords):
 
     return hobbies
 
+
+def checkOther(keywords):
+
+    otherInfo = ""
+
+    otherDict = { "Move" : "Moving from home soon. ",
+                  "Overdraft Fee" : "Had overdraft fees. ",
+                  "Hotel" : "Has Traveled. "}
+
+    for key in otherDict:
+        if containsKey(key, keywords):
+            otherInfo += otherDict[key]
+
+    return otherInfo
+
+
 def getUserFeatures(currentUser):
     """
         Checks the keywords for things that are associated with user features,
@@ -275,21 +301,15 @@ def getUserFeatures(currentUser):
     userData.append(checkChildren(keywords))
     userData.append(checkRelationship(keywords))
     userData.append(checkHobbies(rankedKeywords))
-
-    userData += spending_income(currentUser)  # returns arr.
-
-    # checkOther
-    # lloking to move:
-    moving = (containsKey("Move", keywords) or containsKey("Movers", keywords))
-    # Troubling paycheck finances, overdraft fee
-    # could be getting larger paycheck if income < 1/2 * expense ->
-    # trouble for relationship
+    userData += spending_income(currentUser)  # returns arr. -> +=
+    userData.append(checkOther(keywords))
 
     return userData
 
 
 def printRow(userData):
-    pass
+    print(userData)
+    # pass
 
 
 def createCSV():
@@ -317,7 +337,7 @@ def main():
 
     c = createCSV()  # create the results file.
 
-    for current in range(0,NUMBER_OF_USERS):
+    for current in range(0,15):
 
         currentUser = loadUserData(str(current))
 
