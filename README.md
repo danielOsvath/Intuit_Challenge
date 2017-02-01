@@ -39,7 +39,7 @@ When in the project directory.
 In addition to the displayed table, the program will output a .csv in the project folder.
 
 
-
+---
 
 ## Rationale behind data analysis
 
