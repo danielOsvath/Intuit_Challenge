@@ -30,7 +30,8 @@ and typing: `python readData.py`
 
 If the anaconda label is **not** there, you will have to provide the anaconda python path. Usually in the following location: ~/anaconda/bin/python.app 
 
-To run: `~/anaconda/bin/python.app readData.py`
+To run: `~/anaconda/bin/python.app readData.py` 
+
 or: `~/anaconda3/bin/python.app readData.py`
 
 When in the project directory. 
