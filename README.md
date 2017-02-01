@@ -28,9 +28,10 @@ Python 3.5.2 |Anaconda 4.2.0 (x86_64)| , and the anaconda label is there, you ar
 
 and typing: `python readData.py`
 
-If the anaconda label is not there, you will have to provide the anaconda python path. Usually in the following location: ~/anaconda/bin/python.app 
+If the anaconda label is **not** there, you will have to provide the anaconda python path. Usually in the following location: ~/anaconda/bin/python.app 
 
 To run: `~/anaconda/bin/python.app readData.py`
+or: `~/anaconda3/bin/python.app readData.py`
 
 When in the project directory. 
 
