@@ -1,5 +1,7 @@
 # Intuit_Challenge
 
+Challenge for intuit recruiting. Big Data analysis in python from csv files, used pandas data library.
+
 ## Installation
 
 ### 1) Download project from Github as a .zip. 
